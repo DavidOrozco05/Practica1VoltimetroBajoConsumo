@@ -1,0 +1,641 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PIC14E ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F1827 ]
+[d frameptr 6 ]
+"85 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/adc.c
+[e E2485 . `uc
+ADC 0
+channel_Temp 29
+channel_DAC 30
+channel_FVR 31
+]
+"43 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c99\common\fltol.c
+[v ___fltol __fltol `(l  1 e 4 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"242
+[v ___flsub __flsub `(d  1 e 4 0 ]
+"8 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c99\common\sprcdiv.c
+[v ___fldiv __fldiv `(d  1 e 4 0 ]
+"8 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c99\common\sprcmul.c
+[v ___flmul __flmul `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c99\common\xxtofl.c
+[v ___xxtofl __xxtofl `(d  1 e 4 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c99\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"22 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\main.c
+[v _main main `(v  1 e 1 0 ]
+"67 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/adc.c
+[v _ADC_Initialize ADC_Initialize `(v  1 e 1 0 ]
+"93
+[v _ADC_StartConversion ADC_StartConversion `(v  1 e 1 0 ]
+"100
+[v _ADC_IsConversionDone ADC_IsConversionDone `(a  1 e 1 0 ]
+"106
+[v _ADC_GetConversionResult ADC_GetConversionResult `(us  1 e 2 0 ]
+"66 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/eusart.c
+[v _EUSART_Initialize EUSART_Initialize `(v  1 e 1 0 ]
+"94
+[v _EUSART_is_tx_ready EUSART_is_tx_ready `(a  1 e 1 0 ]
+"104
+[v _EUSART_is_tx_done EUSART_is_tx_done `(a  1 e 1 0 ]
+"132
+[v _EUSART_Write EUSART_Write `(v  1 e 1 0 ]
+"144
+[v _EUSART_DefaultFramingErrorHandler EUSART_DefaultFramingErrorHandler `(v  1 e 1 0 ]
+"146
+[v _EUSART_DefaultOverrunErrorHandler EUSART_DefaultOverrunErrorHandler `(v  1 e 1 0 ]
+"154
+[v _EUSART_DefaultErrorHandler EUSART_DefaultErrorHandler `(v  1 e 1 0 ]
+"157
+[v _EUSART_SetFramingErrorHandler EUSART_SetFramingErrorHandler `(v  1 e 1 0 ]
+"161
+[v _EUSART_SetOverrunErrorHandler EUSART_SetOverrunErrorHandler `(v  1 e 1 0 ]
+"165
+[v _EUSART_SetErrorHandler EUSART_SetErrorHandler `(v  1 e 1 0 ]
+"58 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/fvr.c
+[v _FVR_Initialize FVR_Initialize `(v  1 e 1 0 ]
+"50 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/mcc.c
+[v _SYSTEM_Initialize SYSTEM_Initialize `(v  1 e 1 0 ]
+"62
+[v _OSCILLATOR_Initialize OSCILLATOR_Initialize `(v  1 e 1 0 ]
+"72
+[v _WDT_Initialize WDT_Initialize `(v  1 e 1 0 ]
+"55 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/pin_manager.c
+[v _PIN_MANAGER_Initialize PIN_MANAGER_Initialize `(v  1 e 1 0 ]
+"62 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/tmr2.c
+[v _TMR2_Initialize TMR2_Initialize `(v  1 e 1 0 ]
+"111
+[v _TMR2_HasOverflowOccured TMR2_HasOverflowOccured `(a  1 e 1 0 ]
+"10 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\nuestrodisplay.c
+[v _inicializar_nuestro_Display inicializar_nuestro_Display `(v  1 e 1 0 ]
+"30
+[v _ADC2Display ADC2Display `(v  1 e 1 0 ]
+"44
+[v _Prender_seg Prender_seg `(v  1 e 1 0 ]
+"10 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\nuestroserial.c
+[v _inicializar_nuestroserial inicializar_nuestroserial `(v  1 e 1 0 ]
+"17
+[v _tengodatos_PorEnviar tengodatos_PorEnviar `(uc  1 e 1 0 ]
+"21
+[v _llenar_registros_del_Serial llenar_registros_del_Serial `(v  1 e 1 0 ]
+"36
+[v _enviarsiguiente_Dato enviarsiguiente_Dato `(v  1 e 1 0 ]
+"11 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\nuestrostimers.c
+[v _Tm_Inicie_periodico Tm_Inicie_periodico `(v  1 e 1 0 ]
+"17
+[v _Tm_Procese_tiempo Tm_Procese_tiempo `(v  1 e 1 0 ]
+"33
+[v _Tm_Hubo_periodico Tm_Hubo_periodico `(uc  1 e 1 0 ]
+"37
+[v _Tm_Baje_periodico Tm_Baje_periodico `(v  1 e 1 0 ]
+[s S155 . 1 `uc 1 TMR1IF 1 0 :1:0 
+`uc 1 TMR2IF 1 0 :1:1 
+`uc 1 CCP1IF 1 0 :1:2 
+`uc 1 SSP1IF 1 0 :1:3 
+`uc 1 TXIF 1 0 :1:4 
+`uc 1 RCIF 1 0 :1:5 
+`uc 1 ADIF 1 0 :1:6 
+`uc 1 TMR1GIF 1 0 :1:7 
+]
+"571 C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/PIC12-16F1xxx_DFP/1.3.90/xc8\pic\include\proc\pic16f1827.h
+[u S164 . 1 `S155 1 . 1 0 ]
+[v _PIR1bits PIR1bits `VES164  1 e 1 @17 ]
+"942
+[v _TMR2 TMR2 `VEuc  1 e 1 @26 ]
+"962
+[v _PR2 PR2 `VEuc  1 e 1 @27 ]
+"982
+[v _T2CON T2CON `VEuc  1 e 1 @28 ]
+[s S403 . 1 `uc 1 T2CKPS0 1 0 :1:0 
+`uc 1 T2CKPS1 1 0 :1:1 
+`uc 1 TMR2ON 1 0 :1:2 
+`uc 1 T2OUTPS0 1 0 :1:3 
+`uc 1 T2OUTPS1 1 0 :1:4 
+`uc 1 T2OUTPS2 1 0 :1:5 
+`uc 1 T2OUTPS3 1 0 :1:6 
+]
+"1003
+[s S411 . 1 `uc 1 T2CKPS 1 0 :2:0 
+`uc 1 . 1 0 :1:2 
+`uc 1 T2OUTPS 1 0 :4:3 
+]
+[u S415 . 1 `S403 1 . 1 0 `S411 1 . 1 0 ]
+[v _T2CONbits T2CONbits `VES415  1 e 1 @28 ]
+"1153
+[v _TRISA TRISA `VEuc  1 e 1 @140 ]
+"1215
+[v _TRISB TRISB `VEuc  1 e 1 @141 ]
+[s S65 . 1 `uc 1 PS0 1 0 :1:0 
+`uc 1 PS1 1 0 :1:1 
+`uc 1 PS2 1 0 :1:2 
+`uc 1 PSA 1 0 :1:3 
+`uc 1 TMR0SE 1 0 :1:4 
+`uc 1 TMR0CS 1 0 :1:5 
+`uc 1 INTEDG 1 0 :1:6 
+`uc 1 nWPUEN 1 0 :1:7 
+]
+"1479
+[s S74 . 1 `uc 1 PS 1 0 :3:0 
+`uc 1 . 1 0 :1:3 
+`uc 1 T0SE 1 0 :1:4 
+`uc 1 T0CS 1 0 :1:5 
+]
+[u S79 . 1 `S65 1 . 1 0 `S74 1 . 1 0 ]
+[v _OPTION_REGbits OPTION_REGbits `VES79  1 e 1 @149 ]
+"1590
+[v _WDTCON WDTCON `VEuc  1 e 1 @151 ]
+[s S527 . 1 `uc 1 SWDTEN 1 0 :1:0 
+`uc 1 WDTPS0 1 0 :1:1 
+`uc 1 WDTPS1 1 0 :1:2 
+`uc 1 WDTPS2 1 0 :1:3 
+`uc 1 WDTPS3 1 0 :1:4 
+`uc 1 WDTPS4 1 0 :1:5 
+]
+"1609
+[s S534 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 WDTPS 1 0 :5:1 
+]
+[u S537 . 1 `S527 1 . 1 0 `S534 1 . 1 0 ]
+[v _WDTCONbits WDTCONbits `VES537  1 e 1 @151 ]
+"1649
+[v _OSCTUNE OSCTUNE `VEuc  1 e 1 @152 ]
+"1707
+[v _OSCCON OSCCON `VEuc  1 e 1 @153 ]
+"1848
+[v _ADRESL ADRESL `VEuc  1 e 1 @155 ]
+"1868
+[v _ADRESH ADRESH `VEuc  1 e 1 @156 ]
+"1888
+[v _ADCON0 ADCON0 `VEuc  1 e 1 @157 ]
+[s S288 . 1 `uc 1 ADON 1 0 :1:0 
+`uc 1 GO_nDONE 1 0 :1:1 
+`uc 1 CHS0 1 0 :1:2 
+`uc 1 CHS1 1 0 :1:3 
+`uc 1 CHS2 1 0 :1:4 
+`uc 1 CHS3 1 0 :1:5 
+`uc 1 CHS4 1 0 :1:6 
+]
+"1913
+[s S296 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 ADGO 1 0 :1:1 
+`uc 1 CHS 1 0 :5:2 
+]
+[s S300 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 GO 1 0 :1:1 
+]
+[u S303 . 1 `S288 1 . 1 0 `S296 1 . 1 0 `S300 1 . 1 0 ]
+[v _ADCON0bits ADCON0bits `VES303  1 e 1 @157 ]
+"1968
+[v _ADCON1 ADCON1 `VEuc  1 e 1 @158 ]
+"2040
+[v _LATA LATA `VEuc  1 e 1 @268 ]
+[s S670 . 1 `uc 1 LATA0 1 0 :1:0 
+`uc 1 LATA1 1 0 :1:1 
+`uc 1 LATA2 1 0 :1:2 
+`uc 1 LATA3 1 0 :1:3 
+`uc 1 LATA4 1 0 :1:4 
+`uc 1 . 1 0 :1:5 
+`uc 1 LATA6 1 0 :1:6 
+`uc 1 LATA7 1 0 :1:7 
+]
+"2057
+[u S679 . 1 `S670 1 . 1 0 ]
+[v _LATAbits LATAbits `VES679  1 e 1 @268 ]
+"2097
+[v _LATB LATB `VEuc  1 e 1 @269 ]
+[s S649 . 1 `uc 1 LATB0 1 0 :1:0 
+`uc 1 LATB1 1 0 :1:1 
+`uc 1 LATB2 1 0 :1:2 
+`uc 1 LATB3 1 0 :1:3 
+`uc 1 LATB4 1 0 :1:4 
+`uc 1 LATB5 1 0 :1:5 
+`uc 1 LATB6 1 0 :1:6 
+`uc 1 LATB7 1 0 :1:7 
+]
+"2114
+[u S658 . 1 `S649 1 . 1 0 ]
+[v _LATBbits LATBbits `VES658  1 e 1 @269 ]
+"2431
+[v _BORCON BORCON `VEuc  1 e 1 @278 ]
+"2458
+[v _FVRCON FVRCON `VEuc  1 e 1 @279 ]
+[s S350 . 1 `uc 1 ADFVR0 1 0 :1:0 
+`uc 1 ADFVR1 1 0 :1:1 
+`uc 1 CDAFVR0 1 0 :1:2 
+`uc 1 CDAFVR1 1 0 :1:3 
+`uc 1 TSRNG 1 0 :1:4 
+`uc 1 TSEN 1 0 :1:5 
+`uc 1 FVRRDY 1 0 :1:6 
+`uc 1 FVREN 1 0 :1:7 
+]
+"2479
+[s S359 . 1 `uc 1 ADFVR 1 0 :2:0 
+`uc 1 CDAFVR 1 0 :2:2 
+]
+[u S362 . 1 `S350 1 . 1 0 `S359 1 . 1 0 ]
+[v _FVRCONbits FVRCONbits `VES362  1 e 1 @279 ]
+"2780
+[v _APFCON0 APFCON0 `VEuc  1 e 1 @285 ]
+"2842
+[v _APFCON1 APFCON1 `VEuc  1 e 1 @286 ]
+"2862
+[v _ANSELA ANSELA `VEuc  1 e 1 @396 ]
+"2914
+[v _ANSELB ANSELB `VEuc  1 e 1 @397 ]
+"3173
+[v _RCREG RCREG `VEuc  1 e 1 @409 ]
+"3193
+[v _TXREG TXREG `VEuc  1 e 1 @410 ]
+"3229
+[v _SPBRGL SPBRGL `VEuc  1 e 1 @411 ]
+"3279
+[v _SPBRGH SPBRGH `VEuc  1 e 1 @412 ]
+"3312
+[v _RCSTA RCSTA `VEuc  1 e 1 @413 ]
+[s S197 . 1 `uc 1 RX9D 1 0 :1:0 
+`uc 1 OERR 1 0 :1:1 
+`uc 1 FERR 1 0 :1:2 
+`uc 1 ADDEN 1 0 :1:3 
+`uc 1 CREN 1 0 :1:4 
+`uc 1 SREN 1 0 :1:5 
+`uc 1 RX9 1 0 :1:6 
+`uc 1 SPEN 1 0 :1:7 
+]
+"3329
+[u S206 . 1 `S197 1 . 1 0 ]
+[v _RCSTAbits RCSTAbits `VES206  1 e 1 @413 ]
+"3374
+[v _TXSTA TXSTA `VEuc  1 e 1 @414 ]
+[s S176 . 1 `uc 1 TX9D 1 0 :1:0 
+`uc 1 TRMT 1 0 :1:1 
+`uc 1 BRGH 1 0 :1:2 
+`uc 1 SENDB 1 0 :1:3 
+`uc 1 SYNC 1 0 :1:4 
+`uc 1 TXEN 1 0 :1:5 
+`uc 1 TX9 1 0 :1:6 
+`uc 1 CSRC 1 0 :1:7 
+]
+"3391
+[u S185 . 1 `S176 1 . 1 0 ]
+[v _TXSTAbits TXSTAbits `VES185  1 e 1 @414 ]
+"3436
+[v _BAUDCON BAUDCON `VEuc  1 e 1 @415 ]
+"3488
+[v _WPUA WPUA `VEuc  1 e 1 @524 ]
+"3517
+[v _WPUB WPUB `VEuc  1 e 1 @525 ]
+"13 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\main.c
+[v _datoadc datoadc `us  1 e 2 0 ]
+[s S109 . 1 `uc 1 perr 1 0 :1:0 
+`uc 1 ferr 1 0 :1:1 
+`uc 1 oerr 1 0 :1:2 
+`uc 1 reserved 1 0 :5:3 
+]
+"52 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/eusart.c
+[u S114 . 1 `S109 1 . 1 0 `uc 1 status 1 0 ]
+[v _eusartRxLastError eusartRxLastError `VES114  1 e 1 0 ]
+"58
+[v _EUSART_FramingErrorHandler EUSART_FramingErrorHandler `*.37(v  1 e 2 0 ]
+"59
+[v _EUSART_OverrunErrorHandler EUSART_OverrunErrorHandler `*.37(v  1 e 2 0 ]
+"60
+[v _EUSART_ErrorHandler EUSART_ErrorHandler `*.37(v  1 e 2 0 ]
+"22 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+[s S461 Sr_Serial 10 `[6]uc 1 datosaenviar 6 0 `uc 1 contador 1 6 `uc 1 Valor1 1 7 `uc 1 Valor2 1 8 `uc 1 Valor3 1 9 ]
+"31
+[v main@miserial miserial `S461  1 a 10 27 ]
+[s S450 Tm_Periodico 7 `ui 1 contador 2 0 `ui 1 periodo 2 2 `ui 1 timeout 2 4 `uc 1 banderas 1 6 ]
+"27
+[v main@timer_ADC timer_ADC `S450  1 a 7 15 ]
+[s S472 Ds_Display 5 `uc 1 Digito1 1 0 `uc 1 Digito2 1 1 `uc 1 Digito3 1 2 `ui 1 estado 2 3 ]
+"35
+[v main@miDisplay miDisplay `S472  1 a 5 22 ]
+"38
+[v main@convirtiendo convirtiendo `uc  1 a 1 14 ]
+"68
+} 0
+"17 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\nuestroserial.c
+[v _tengodatos_PorEnviar tengodatos_PorEnviar `(uc  1 e 1 0 ]
+{
+[s S461 Sr_Serial 10 `[6]uc 1 datosaenviar 6 0 `uc 1 contador 1 6 `uc 1 Valor1 1 7 `uc 1 Valor2 1 8 `uc 1 Valor3 1 9 ]
+[v tengodatos_PorEnviar@ser ser `*.4S461  1 a 1 wreg ]
+[v tengodatos_PorEnviar@ser ser `*.4S461  1 a 1 wreg ]
+[v tengodatos_PorEnviar@ser ser `*.4S461  1 a 1 0 ]
+"19
+} 0
+"21
+[v _llenar_registros_del_Serial llenar_registros_del_Serial `(v  1 e 1 0 ]
+{
+[s S461 Sr_Serial 10 `[6]uc 1 datosaenviar 6 0 `uc 1 contador 1 6 `uc 1 Valor1 1 7 `uc 1 Valor2 1 8 `uc 1 Valor3 1 9 ]
+[v llenar_registros_del_Serial@ser ser `*.4S461  1 a 1 wreg ]
+[v llenar_registros_del_Serial@ser ser `*.4S461  1 a 1 wreg ]
+[v llenar_registros_del_Serial@Dig1 Dig1 `uc  1 p 1 0 ]
+[v llenar_registros_del_Serial@Dig2 Dig2 `uc  1 p 1 1 ]
+[v llenar_registros_del_Serial@Dig3 Dig3 `uc  1 p 1 2 ]
+"23
+"21
+[v llenar_registros_del_Serial@ser ser `*.4S461  1 a 1 3 ]
+"34
+} 0
+"10
+[v _inicializar_nuestroserial inicializar_nuestroserial `(v  1 e 1 0 ]
+{
+[s S461 Sr_Serial 10 `[6]uc 1 datosaenviar 6 0 `uc 1 contador 1 6 `uc 1 Valor1 1 7 `uc 1 Valor2 1 8 `uc 1 Valor3 1 9 ]
+[v inicializar_nuestroserial@ser ser `*.4S461  1 a 1 wreg ]
+[v inicializar_nuestroserial@ser ser `*.4S461  1 a 1 wreg ]
+[v inicializar_nuestroserial@ser ser `*.4S461  1 a 1 1 ]
+"14
+} 0
+"10 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\nuestrodisplay.c
+[v _inicializar_nuestro_Display inicializar_nuestro_Display `(v  1 e 1 0 ]
+{
+[s S472 Ds_Display 5 `uc 1 Digito1 1 0 `uc 1 Digito2 1 1 `uc 1 Digito3 1 2 `ui 1 estado 2 3 ]
+[v inicializar_nuestro_Display@dis dis `*.4S472  1 a 1 wreg ]
+[v inicializar_nuestro_Display@dis dis `*.4S472  1 a 1 wreg ]
+[v inicializar_nuestro_Display@dis dis `*.4S472  1 a 1 0 ]
+"27
+} 0
+"36 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\nuestroserial.c
+[v _enviarsiguiente_Dato enviarsiguiente_Dato `(v  1 e 1 0 ]
+{
+[s S461 Sr_Serial 10 `[6]uc 1 datosaenviar 6 0 `uc 1 contador 1 6 `uc 1 Valor1 1 7 `uc 1 Valor2 1 8 `uc 1 Valor3 1 9 ]
+[v enviarsiguiente_Dato@ser ser `*.4S461  1 a 1 wreg ]
+[v enviarsiguiente_Dato@ser ser `*.4S461  1 a 1 wreg ]
+[v enviarsiguiente_Dato@ser ser `*.4S461  1 a 1 2 ]
+"39
+} 0
+"132 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/eusart.c
+[v _EUSART_Write EUSART_Write `(v  1 e 1 0 ]
+{
+[v EUSART_Write@txData txData `uc  1 a 1 wreg ]
+[v EUSART_Write@txData txData `uc  1 a 1 wreg ]
+[v EUSART_Write@txData txData `uc  1 a 1 0 ]
+"139
+} 0
+"17 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\nuestrostimers.c
+[v _Tm_Procese_tiempo Tm_Procese_tiempo `(v  1 e 1 0 ]
+{
+[s S450 Tm_Periodico 7 `ui 1 contador 2 0 `ui 1 periodo 2 2 `ui 1 timeout 2 4 `uc 1 banderas 1 6 ]
+[v Tm_Procese_tiempo@ctp ctp `*.4S450  1 a 1 wreg ]
+[v Tm_Procese_tiempo@ctp ctp `*.4S450  1 a 1 wreg ]
+"21
+"17
+[v Tm_Procese_tiempo@ctp ctp `*.4S450  1 a 1 4 ]
+"32
+} 0
+"11
+[v _Tm_Inicie_periodico Tm_Inicie_periodico `(v  1 e 1 0 ]
+{
+[s S450 Tm_Periodico 7 `ui 1 contador 2 0 `ui 1 periodo 2 2 `ui 1 timeout 2 4 `uc 1 banderas 1 6 ]
+[v Tm_Inicie_periodico@ctp ctp `*.4S450  1 a 1 wreg ]
+[v Tm_Inicie_periodico@ctp ctp `*.4S450  1 a 1 wreg ]
+[v Tm_Inicie_periodico@periodo periodo `ui  1 p 2 0 ]
+"13
+"11
+[v Tm_Inicie_periodico@ctp ctp `*.4S450  1 a 1 3 ]
+"16
+} 0
+"33
+[v _Tm_Hubo_periodico Tm_Hubo_periodico `(uc  1 e 1 0 ]
+{
+[s S450 Tm_Periodico 7 `ui 1 contador 2 0 `ui 1 periodo 2 2 `ui 1 timeout 2 4 `uc 1 banderas 1 6 ]
+[v Tm_Hubo_periodico@ctp ctp `*.4S450  1 a 1 wreg ]
+[v Tm_Hubo_periodico@ctp ctp `*.4S450  1 a 1 wreg ]
+"35
+"33
+[v Tm_Hubo_periodico@ctp ctp `*.4S450  1 a 1 0 ]
+"36
+} 0
+"37
+[v _Tm_Baje_periodico Tm_Baje_periodico `(v  1 e 1 0 ]
+{
+[s S450 Tm_Periodico 7 `ui 1 contador 2 0 `ui 1 periodo 2 2 `ui 1 timeout 2 4 `uc 1 banderas 1 6 ]
+[v Tm_Baje_periodico@ctp ctp `*.4S450  1 a 1 wreg ]
+[v Tm_Baje_periodico@ctp ctp `*.4S450  1 a 1 wreg ]
+"39
+"37
+[v Tm_Baje_periodico@ctp ctp `*.4S450  1 a 1 1 ]
+"40
+} 0
+"111 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/tmr2.c
+[v _TMR2_HasOverflowOccured TMR2_HasOverflowOccured `(a  1 e 1 0 ]
+{
+"114
+[v TMR2_HasOverflowOccured@status status `a  1 a 1 0 ]
+"121
+} 0
+"50 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/mcc.c
+[v _SYSTEM_Initialize SYSTEM_Initialize `(v  1 e 1 0 ]
+{
+"60
+} 0
+"72
+[v _WDT_Initialize WDT_Initialize `(v  1 e 1 0 ]
+{
+"76
+} 0
+"62 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/tmr2.c
+[v _TMR2_Initialize TMR2_Initialize `(v  1 e 1 0 ]
+{
+"77
+} 0
+"55 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/pin_manager.c
+[v _PIN_MANAGER_Initialize PIN_MANAGER_Initialize `(v  1 e 1 0 ]
+{
+"94
+} 0
+"62 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/mcc.c
+[v _OSCILLATOR_Initialize OSCILLATOR_Initialize `(v  1 e 1 0 ]
+{
+"70
+} 0
+"58 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/fvr.c
+[v _FVR_Initialize FVR_Initialize `(v  1 e 1 0 ]
+{
+"62
+} 0
+"66 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/eusart.c
+[v _EUSART_Initialize EUSART_Initialize `(v  1 e 1 0 ]
+{
+"92
+} 0
+"161
+[v _EUSART_SetOverrunErrorHandler EUSART_SetOverrunErrorHandler `(v  1 e 1 0 ]
+{
+[v EUSART_SetOverrunErrorHandler@interruptHandler interruptHandler `*.37(v  1 p 2 0 ]
+"163
+} 0
+"157
+[v _EUSART_SetFramingErrorHandler EUSART_SetFramingErrorHandler `(v  1 e 1 0 ]
+{
+[v EUSART_SetFramingErrorHandler@interruptHandler interruptHandler `*.37(v  1 p 2 0 ]
+"159
+} 0
+"165
+[v _EUSART_SetErrorHandler EUSART_SetErrorHandler `(v  1 e 1 0 ]
+{
+[v EUSART_SetErrorHandler@interruptHandler interruptHandler `*.37(v  1 p 2 0 ]
+"167
+} 0
+"67 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/adc.c
+[v _ADC_Initialize ADC_Initialize `(v  1 e 1 0 ]
+{
+"83
+} 0
+"94 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/eusart.c
+[v _EUSART_is_tx_ready EUSART_is_tx_ready `(a  1 e 1 0 ]
+{
+"97
+} 0
+"104
+[v _EUSART_is_tx_done EUSART_is_tx_done `(a  1 e 1 0 ]
+{
+"107
+} 0
+"93 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\mcc_generated_files/adc.c
+[v _ADC_StartConversion ADC_StartConversion `(v  1 e 1 0 ]
+{
+"97
+} 0
+"100
+[v _ADC_IsConversionDone ADC_IsConversionDone `(a  1 e 1 0 ]
+{
+"104
+} 0
+"106
+[v _ADC_GetConversionResult ADC_GetConversionResult `(us  1 e 2 0 ]
+{
+"110
+} 0
+"30 C:\Users\aulasingenieria\Videos\Barbara\Barbara\Barbara\Barbara\BC.X\nuestrodisplay.c
+[v _ADC2Display ADC2Display `(v  1 e 1 0 ]
+{
+[s S472 Ds_Display 5 `uc 1 Digito1 1 0 `uc 1 Digito2 1 1 `uc 1 Digito3 1 2 `ui 1 estado 2 3 ]
+[v ADC2Display@dis dis `*.4S472  1 a 1 wreg ]
+"32
+[v ADC2Display@voltios voltios `f  1 a 4 9 ]
+"31
+[v ADC2Display@aux aux `uc  1 a 1 8 ]
+"30
+[v ADC2Display@dis dis `*.4S472  1 a 1 wreg ]
+[v ADC2Display@adcVal adcVal `us  1 p 2 78 ]
+"32
+"30
+[v ADC2Display@dis dis `*.4S472  1 a 1 13 ]
+"42
+} 0
+"10 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c99\common\xxtofl.c
+[v ___xxtofl __xxtofl `(d  1 e 4 0 ]
+{
+[v ___xxtofl@sign sign `uc  1 a 1 wreg ]
+"13
+[v ___xxtofl@arg arg `ul  1 a 4 10 ]
+"12
+[v ___xxtofl@exp exp `uc  1 a 1 9 ]
+"10
+[v ___xxtofl@sign sign `uc  1 a 1 wreg ]
+[v ___xxtofl@val val `l  1 p 4 0 ]
+"15
+[v ___xxtofl@sign sign `uc  1 a 1 8 ]
+"44
+} 0
+"43 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c99\common\fltol.c
+[v ___fltol __fltol `(l  1 e 4 0 ]
+{
+"45
+[v ___fltol@exp1 exp1 `uc  1 a 1 77 ]
+[v ___fltol@sign1 sign1 `uc  1 a 1 76 ]
+"43
+[v ___fltol@f1 f1 `d  1 p 4 68 ]
+"70
+} 0
+"242 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c99\common\sprcadd.c
+[v ___flsub __flsub `(d  1 e 4 0 ]
+{
+[v ___flsub@a a `d  1 p 4 8 ]
+[v ___flsub@b b `d  1 p 4 12 ]
+"250
+} 0
+"10
+[v ___fladd __fladd `(d  1 e 4 0 ]
+{
+"17
+[v ___fladd@grs grs `uc  1 a 1 11 ]
+"15
+[v ___fladd@bexp bexp `uc  1 a 1 10 ]
+"16
+[v ___fladd@aexp aexp `uc  1 a 1 9 ]
+"13
+[v ___fladd@signs signs `uc  1 a 1 8 ]
+"10
+[v ___fladd@b b `d  1 p 4 0 ]
+[v ___fladd@a a `d  1 p 4 4 ]
+"237
+} 0
+"8 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c99\common\sprcmul.c
+[v ___flmul __flmul `(d  1 e 4 0 ]
+{
+[s S1090 . 4 `uc 1 a 1 0 `uc 1 b 1 1 `uc 1 c 1 2 `uc 1 d 1 3 ]
+"13
+[s S1095 . 4 `i 1 wordA 2 0 `i 1 wordB 2 2 ]
+[u S1098 . 4 `l 1 i 4 0 `d 1 f 4 0 `S1090 1 fAsBytes 4 0 `S1095 1 fAsWords 4 0 ]
+[v ___flmul@prod prod `S1098  1 a 4 36 ]
+"12
+[v ___flmul@grs grs `ul  1 a 4 30 ]
+[s S1167 . 2 `uc 1 a 1 0 `uc 1 b 1 1 ]
+"14
+[u S1170 . 2 `i 1 i 2 0 `ui 1 n 2 0 `S1167 1 nAsBytes 2 0 ]
+[v ___flmul@temp temp `S1170  1 a 2 40 ]
+"10
+[v ___flmul@bexp bexp `uc  1 a 1 35 ]
+"11
+[v ___flmul@aexp aexp `uc  1 a 1 34 ]
+"9
+[v ___flmul@sign sign `uc  1 a 1 29 ]
+"8
+[v ___flmul@b b `d  1 p 4 16 ]
+[v ___flmul@a a `d  1 p 4 20 ]
+"205
+} 0
+"4 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+{
+[v __Umul8_16@multiplier multiplier `uc  1 a 1 wreg ]
+"6
+[v __Umul8_16@word_mpld word_mpld `ui  1 a 2 6 ]
+"5
+[v __Umul8_16@product product `ui  1 a 2 4 ]
+"4
+[v __Umul8_16@multiplier multiplier `uc  1 a 1 wreg ]
+[v __Umul8_16@multiplicand multiplicand `uc  1 p 1 0 ]
+[v __Umul8_16@multiplier multiplier `uc  1 a 1 8 ]
+"60
+} 0
+"8 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c99\common\sprcdiv.c
+[v ___fldiv __fldiv `(d  1 e 4 0 ]
+{
+"21
+[v ___fldiv@grs grs `ul  1 a 4 62 ]
+"22
+[v ___fldiv@rem rem `ul  1 a 4 55 ]
+"20
+[v ___fldiv@new_exp new_exp `i  1 a 2 60 ]
+"19
+[v ___fldiv@aexp aexp `uc  1 a 1 67 ]
+"18
+[v ___fldiv@bexp bexp `uc  1 a 1 66 ]
+"16
+[v ___fldiv@sign sign `uc  1 a 1 59 ]
+"8
+[v ___fldiv@a a `d  1 p 4 42 ]
+[v ___fldiv@b b `d  1 p 4 46 ]
+"185
+} 0

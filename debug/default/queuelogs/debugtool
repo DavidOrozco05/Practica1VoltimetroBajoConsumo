@@ -1,0 +1,1006 @@
+293 1677167027666 XXXX 1677167027666, Thread 293: XXXX 1677167027666, Entering Thread 293: Commands::runScriptBasic with script contents. contents[0] = 0xed, ...  
+293 1677167027668 XXXX 1677167027668, Thread 293: XXXX 1677167027668, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027668 XXXX 1677167027668, Thread 293: XXXX 1677167027668, Entering Thread 293: Commands::runScriptBasic with script contents. contents[0] = 0xec, ...  
+293 1677167027669 XXXX 1677167027669, Thread 293: XXXX 1677167027669, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027669 XXXX 1677167027669, Thread 293: XXXX 1677167027669, Entering Thread 293: Commands::runScriptBasic, script name = EnterTMOD_LV, timeOut = -1 ms  
+293 1677167027673 XXXX 1677167027673, Thread 293: XXXX 1677167027673, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027673 XXXX 1677167027673, Thread 293: XXXX 1677167027673, Entering Thread 293: Commands::runScriptBasic, script name = EraseTestmemRange, timeOut = 30000 ms  
+293 1677167027726 XXXX 1677167027726, Thread 293: XXXX 1677167027726, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027726 XXXX 1677167027726, Thread 293: XXXX 1677167027726, Entering Thread 293: Commands::runScriptBasic, script name = ExitTMOD, timeOut = -1 ms  
+293 1677167027729 XXXX 1677167027729, Thread 293: XXXX 1677167027729, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027729 XXXX 1677167027729, Thread 293: XXXX 1677167027729, Entering Thread 293: Commands::runScriptBasic, script name = SetSpeedFromDevice, timeOut = -1 ms  
+293 1677167027731 XXXX 1677167027731, Thread 293: XXXX 1677167027731, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027731 XXXX 1677167027731, Thread 293: XXXX 1677167027731, Entering Thread 293: Commands::runScriptBasic with script contents. contents[0] = 0xed, ...  
+293 1677167027732 XXXX 1677167027732, Thread 293: XXXX 1677167027732, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027732 XXXX 1677167027732, Thread 293: XXXX 1677167027732, Entering Thread 293: Commands::runScriptBasic with script contents. contents[0] = 0xec, ...  
+293 1677167027734 XXXX 1677167027734, Thread 293: XXXX 1677167027734, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027734 XXXX 1677167027734, Thread 293: XXXX 1677167027734, Entering Thread 293: Commands::runScriptBasic, script name = EnterTMOD_LV, timeOut = -1 ms  
+293 1677167027739 XXXX 1677167027739, Thread 293: XXXX 1677167027739, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027739 XXXX 1677167027739, Thread 293: XXXX 1677167027739, Entering Thread 293: Commands::runScriptWithDownload, script name = WriteIDmem  
+293 1677167027762 XXXX 1677167027762, Thread 293: XXXX 1677167027762, Exiting Thread 293: Commands::runScriptWithDownload(WriteIDmem)  
+293 1677167027763 XXXX 1677167027762, Thread 293: XXXX 1677167027762, Entering Thread 293: Commands::runScriptBasic, script name = ExitTMOD, timeOut = -1 ms  
+293 1677167027765 XXXX 1677167027765, Thread 293: XXXX 1677167027765, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027765 XXXX 1677167027765, Thread 293: XXXX 1677167027765, Entering Thread 293: Commands::runScriptBasic, script name = SetSpeedFromDevice, timeOut = -1 ms  
+293 1677167027767 XXXX 1677167027767, Thread 293: XXXX 1677167027767, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027767 XXXX 1677167027767, Thread 293: XXXX 1677167027767, Entering Thread 293: Commands::runScriptBasic with script contents. contents[0] = 0xed, ...  
+293 1677167027768 XXXX 1677167027768, Thread 293: XXXX 1677167027768, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027769 XXXX 1677167027769, Thread 293: XXXX 1677167027769, Entering Thread 293: Commands::runScriptBasic with script contents. contents[0] = 0xec, ...  
+293 1677167027769 XXXX 1677167027769, Thread 293: XXXX 1677167027769, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027769 XXXX 1677167027769, Thread 293: XXXX 1677167027769, Entering Thread 293: Commands::runScriptBasic, script name = EnterTMOD_LV, timeOut = -1 ms  
+293 1677167027775 XXXX 1677167027775, Thread 293: XXXX 1677167027775, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027775 XXXX 1677167027775, Thread 293: XXXX 1677167027775, Entering Thread 293: Commands::runScriptWithDownload, script name = WriteConfigmem  
+293 1677167027789 XXXX 1677167027789, Thread 293: XXXX 1677167027789, Exiting Thread 293: Commands::runScriptWithDownload(WriteConfigmem)  
+293 1677167027789 XXXX 1677167027789, Thread 293: XXXX 1677167027789, Entering Thread 293: Commands::runScriptBasic, script name = ExitTMOD, timeOut = -1 ms  
+293 1677167027791 XXXX 1677167027791, Thread 293: XXXX 1677167027791, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027791 XXXX 1677167027791, Thread 293: XXXX 1677167027791, Entering Thread 293: Commands::runScriptBasic, script name = SetSpeedFromDevice, timeOut = -1 ms  
+293 1677167027793 XXXX 1677167027793, Thread 293: XXXX 1677167027793, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027793 XXXX 1677167027793, Thread 293: XXXX 1677167027793, Entering Thread 293: Commands::runScriptBasic with script contents. contents[0] = 0xed, ...  
+293 1677167027794 XXXX 1677167027794, Thread 293: XXXX 1677167027794, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027794 XXXX 1677167027794, Thread 293: XXXX 1677167027794, Entering Thread 293: Commands::runScriptBasic with script contents. contents[0] = 0xec, ...  
+293 1677167027797 XXXX 1677167027797, Thread 293: XXXX 1677167027797, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027797 XXXX 1677167027797, Thread 293: XXXX 1677167027797, Entering Thread 293: Commands::runScriptBasic, script name = EnterTMOD_LV, timeOut = -1 ms  
+293 1677167027801 XXXX 1677167027801, Thread 293: XXXX 1677167027801, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027801 XXXX 1677167027801, Thread 293: XXXX 1677167027801, Entering Thread 293: Commands::runScriptWithDownload, script name = WriteConfigmemDE  
+293 1677167027980 XXXX 1677167027980, Thread 293: XXXX 1677167027980, Exiting Thread 293: Commands::runScriptWithDownload(WriteConfigmemDE)  
+293 1677167027980 XXXX 1677167027980, Thread 293: XXXX 1677167027980, Entering Thread 293: Commands::runScriptBasic, script name = ExitTMOD, timeOut = -1 ms  
+293 1677167027983 XXXX 1677167027983, Thread 293: XXXX 1677167027983, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027983 XXXX 1677167027983, Thread 293: XXXX 1677167027983, Entering Thread 293: Commands::runScriptBasic, script name = SetSpeedFromDevice, timeOut = -1 ms  
+293 1677167027984 XXXX 1677167027984, Thread 293: XXXX 1677167027984, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027984 XXXX 1677167027984, Thread 293: XXXX 1677167027984, Entering Thread 293: Commands::runScriptBasic with script contents. contents[0] = 0xed, ...  
+293 1677167027986 XXXX 1677167027986, Thread 293: XXXX 1677167027986, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027986 XXXX 1677167027986, Thread 293: XXXX 1677167027986, Entering Thread 293: Commands::runScriptBasic with script contents. contents[0] = 0xec, ...  
+293 1677167027987 XXXX 1677167027987, Thread 293: XXXX 1677167027987, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027987 XXXX 1677167027987, Thread 293: XXXX 1677167027987, Entering Thread 293: Commands::runScriptBasic, script name = EnterTMOD_LV, timeOut = -1 ms  
+293 1677167027992 XXXX 1677167027992, Thread 293: XXXX 1677167027992, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167027992 XXXX 1677167027992, Thread 293: XXXX 1677167027992, Entering Thread 293: Commands::runScriptWithUpload, script name = ReadConfigmem  
+293 1677167027992 XXXX 1677167027992, Thread 293: XXXX 1677167027992, Entering Thread 293: ToolCommUsb::readTransfer, sideData is 0x55 bytes long, transferDataLength is 0x380 bytes long  
+293 1677167028027 XXXX 1677167028027, Thread 293: XXXX 1677167028027, Exiting Thread 293: ToolCommUsb::readTransfer,  cr.status = 0x0  
+293 1677167028027 XXXX 1677167028027, Thread 293: XXXX 1677167028027, Exiting Thread 293: Commands::runScriptWithUpload  
+293 1677167028027 XXXX 1677167028027, Thread 293: XXXX 1677167028027, Entering Thread 293: Commands::runScriptBasic, script name = ExitTMOD, timeOut = -1 ms  
+293 1677167028029 XXXX 1677167028029, Thread 293: XXXX 1677167028029, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167028029 XXXX 1677167028029, Thread 293: XXXX 1677167028029, Entering Thread 293: Commands::runScriptBasic, script name = SetSpeedFromDevice, timeOut = -1 ms  
+293 1677167028030 XXXX 1677167028030, Thread 293: XXXX 1677167028030, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167028030 XXXX 1677167028030, Thread 293: XXXX 1677167028030, Entering Thread 293: Commands::runScriptBasic with script contents. contents[0] = 0xed, ...  
+293 1677167028031 XXXX 1677167028031, Thread 293: XXXX 1677167028031, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167028031 XXXX 1677167028031, Thread 293: XXXX 1677167028031, Entering Thread 293: Commands::runScriptBasic with script contents. contents[0] = 0xec, ...  
+293 1677167028032 XXXX 1677167028032, Thread 293: XXXX 1677167028032, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167028032 XXXX 1677167028032, Thread 293: XXXX 1677167028032, Entering Thread 293: Commands::runScriptBasic, script name = EnterTMOD_LV, timeOut = -1 ms  
+293 1677167028036 XXXX 1677167028036, Thread 293: XXXX 1677167028036, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167028037 XXXX 1677167028037, Thread 293: XXXX 1677167028037, Entering Thread 293: Commands::runScriptBasic, script name = WriteDebugVector, timeOut = -1 ms  
+293 1677167028048 XXXX 1677167028048, Thread 293: XXXX 1677167028048, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167028049 XXXX 1677167028049, Thread 293: XXXX 1677167028049, Entering Thread 293: Commands::runScriptBasic, script name = ExitTMOD, timeOut = -1 ms  
+293 1677167028051 XXXX 1677167028051, Thread 293: XXXX 1677167028051, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167028051 XXXX 1677167028051, Thread 293: XXXX 1677167028051, Entering Thread 293: Commands::runScriptBasic, script name = ExitTMOD, timeOut = -1 ms  
+293 1677167028053 XXXX 1677167028053, Thread 293: XXXX 1677167028053, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167028053 XXXX 1677167028053, Thread 293: XXXX 1677167028053, Entering Thread 293: Commands::runScriptBasic with script contents. contents[0] = 0x42, ...  
+293 1677167028054 XXXX 1677167028054, Thread 293: XXXX 1677167028054, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167028054 XXXX 1677167028054, Thread 293: XXXX 1677167028054, Entering Thread 293: Commands::runScriptBasic, script name = EnterDebugMode, timeOut = 10000 ms  
+293 1677167028501 XXXX 1677167028501, Thread 293: XXXX 1677167028501, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167028501 XXXX 1677167028501, Thread 293: XXXX 1677167028501, Entering Thread 293: Commands::runScriptBasic, script name = GetVersionDE, timeOut = -1 ms  
+293 1677167028516 XXXX 1677167028516, Thread 293: XXXX 1677167028516, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167028516 XXXX 1677167028516, Thread 293: XXXX 1677167028516, Entering Thread 293: Commands::runScriptWithDownload, script name = WriteRAM  
+293 1677167028532 XXXX 1677167028532, Thread 293: XXXX 1677167028532, Exiting Thread 293: Commands::runScriptWithDownload(WriteRAM)  
+293 1677167028533 XXXX 1677167028533, Thread 293: XXXX 1677167028533, Entering Thread 293: Commands::runScriptBasic, script name = SetSpeedFromDevice, timeOut = -1 ms  
+293 1677167028534 XXXX 1677167028534, Thread 293: XXXX 1677167028534, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167028534 XXXX 1677167028534, Thread 293: XXXX 1677167028534, Entering Thread 293: Commands::runScriptBasic with script contents. contents[0] = 0xed, ...  
+293 1677167028536 XXXX 1677167028536, Thread 293: XXXX 1677167028536, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167028536 XXXX 1677167028536, Thread 293: XXXX 1677167028536, Entering Thread 293: Commands::runScriptBasic with script contents. contents[0] = 0xec, ...  
+293 1677167028537 XXXX 1677167028537, Thread 293: XXXX 1677167028537, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167028537 XXXX 1677167028537, Thread 293: XXXX 1677167028537, Entering Thread 293: Commands::runScriptBasic, script name = EnterTMOD_LV, timeOut = -1 ms  
+293 1677167028542 XXXX 1677167028542, Thread 293: XXXX 1677167028542, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167028542 XXXX 1677167028542, Thread 293: XXXX 1677167028542, Entering Thread 293: Commands::runScriptBasic, script name = ExitTMOD, timeOut = -1 ms  
+293 1677167028545 XXXX 1677167028545, Thread 293: XXXX 1677167028545, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167028545 XXXX 1677167028545, Thread 293: XXXX 1677167028545, Entering Thread 293: Commands::runScriptBasic, script name = EnterDebugMode, timeOut = -1 ms  
+293 1677167028992 XXXX 1677167028992, Thread 293: XXXX 1677167028992, Exiting Thread 293: Commands::runScriptBasic  
+293 1677167028992 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Post:InitDebugSession
+293 1677167028992 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Return Value
+293 1677167028992 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 none
+293 1677167028992 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Return End
+
+293 1677167028993 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Pre:SetFreezePerihperalInfo
+293 1677167028993 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Payload
+293 1677167028993 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 BitSetInfo: Values:
+293 1677167028993 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 BitSetInfo: Address = f8e, Mask = 40, SetVal = 40, Type = Emulation
+293 1677167028993 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Payload End
+293 1677167028993 XXXX 1677167028993, Thread 293: XXXX 1677167028993, Entering Thread 293: Commands::runScriptWithUpload, script name = ReadRAM  
+293 1677167028993 XXXX 1677167028993, Thread 293: XXXX 1677167028993, Entering Thread 293: ToolCommUsb::readTransfer, sideData is 0x25 bytes long, transferDataLength is 0x1 bytes long  
+293 1677167029012 XXXX 1677167029012, Thread 293: XXXX 1677167029012, Exiting Thread 293: ToolCommUsb::readTransfer,  cr.status = 0x0  
+293 1677167029012 XXXX 1677167029012, Thread 293: XXXX 1677167029012, Exiting Thread 293: Commands::runScriptWithUpload  
+293 1677167029012 XXXX 1677167029012, Thread 293: XXXX 1677167029012, Entering Thread 293: Commands::runScriptWithDownload, script name = WriteRAM  
+293 1677167029027 XXXX 1677167029027, Thread 293: XXXX 1677167029027, Exiting Thread 293: Commands::runScriptWithDownload(WriteRAM)  
+293 1677167029027 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Post:SetFreezePerihperalInfo
+293 1677167029027 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Return Value
+293 1677167029027 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 none
+293 1677167029027 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Return End
+
+317 1677167029042 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Pre:IsTargetInDebugMode
+317 1677167029042 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Payload
+317 1677167029042 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 null
+317 1677167029042 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Payload End
+317 1677167029042 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Post:IsTargetInDebugMode
+317 1677167029042 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Return Value
+317 1677167029043 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 true
+317 1677167029043 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Return End
+
+317 1677167029046 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Pre:DebugWriteTargetMemory
+317 1677167029046 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Payload
+317 1677167029046 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Emulation
+317 1677167029046 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 f90
+317 1677167029046 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 f91
+317 1677167029046 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Length = 2
+317 1677167029046 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Payload End
+317 1677167029046 XXXX 1677167029046, Thread 317: XXXX 1677167029046, Entering Thread 317: Commands::runScriptWithDownload, script name = WriteRAM  
+317 1677167029064 XXXX 1677167029064, Thread 317: XXXX 1677167029064, Exiting Thread 317: Commands::runScriptWithDownload(WriteRAM)  
+317 1677167029064 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Post:DebugWriteTargetMemory
+317 1677167029064 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Return Value
+317 1677167029064 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 true
+317 1677167029064 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Return End
+
+317 1677167029064 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Pre:SetFreezePerihperalInfo
+317 1677167029064 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Payload
+317 1677167029064 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 BitSetInfo: Values:
+317 1677167029064 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 BitSetInfo: Address = f8e, Mask = 40, SetVal = 40, Type = Emulation
+317 1677167029064 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Payload End
+317 1677167029064 XXXX 1677167029064, Thread 317: XXXX 1677167029064, Entering Thread 317: Commands::runScriptWithUpload, script name = ReadRAM  
+317 1677167029064 XXXX 1677167029064, Thread 317: XXXX 1677167029064, Entering Thread 317: ToolCommUsb::readTransfer, sideData is 0x25 bytes long, transferDataLength is 0x1 bytes long  
+317 1677167029082 XXXX 1677167029082, Thread 317: XXXX 1677167029082, Exiting Thread 317: ToolCommUsb::readTransfer,  cr.status = 0x0  
+317 1677167029082 XXXX 1677167029082, Thread 317: XXXX 1677167029082, Exiting Thread 317: Commands::runScriptWithUpload  
+317 1677167029082 XXXX 1677167029082, Thread 317: XXXX 1677167029082, Entering Thread 317: Commands::runScriptWithDownload, script name = WriteRAM  
+317 1677167029097 XXXX 1677167029097, Thread 317: XXXX 1677167029097, Exiting Thread 317: Commands::runScriptWithDownload(WriteRAM)  
+317 1677167029097 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Post:SetFreezePerihperalInfo
+317 1677167029097 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Return Value
+317 1677167029097 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 none
+317 1677167029097 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Return End
+
+317 1677167029097 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Pre:GetPC
+317 1677167029097 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Payload
+317 1677167029097 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 null
+317 1677167029097 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Payload End
+317 1677167029097 XXXX 1677167029097, Thread 317: XXXX 1677167029097, Entering Thread 317: Commands::runScriptBasic, script name = GetPC, timeOut = -1 ms  
+317 1677167029108 XXXX 1677167029108, Thread 317: XXXX 1677167029108, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167029108 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Post:GetPC
+317 1677167029108 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Return Value
+317 1677167029108 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 1
+317 1677167029108 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Return End
+
+317 1677167029111 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Pre:RunTarget
+317 1677167029111 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Payload
+317 1677167029111 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 com.microchip.mplab.mdbcore.RI4Tool.DebugHandler@6384896f
+317 1677167029111 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Payload End
+317 1677167029111 XXXX 1677167029111, Thread 317: XXXX 1677167029111, Entering Thread 317: Commands::runScriptBasic, script name = Run, timeOut = -1 ms  
+317 1677167029116 XXXX 1677167029116, Thread 317: XXXX 1677167029116, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167029116 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Post:RunTarget
+317 1677167029116 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Return Value
+317 1677167029116 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 true
+317 1677167029116 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC16F1827 Return End
+317 1677167029376 XXXX 1677167029376, Thread 317: XXXX 1677167029376, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167029376 XXXX 1677167029376, Thread 317: XXXX 1677167029376, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167029479 XXXX 1677167029479, Thread 317: XXXX 1677167029479, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167029480 XXXX 1677167029480, Thread 317: XXXX 1677167029480, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167029585 XXXX 1677167029585, Thread 317: XXXX 1677167029585, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167029587 XXXX 1677167029587, Thread 317: XXXX 1677167029587, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167029689 XXXX 1677167029689, Thread 317: XXXX 1677167029689, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167029691 XXXX 1677167029691, Thread 317: XXXX 1677167029691, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167029790 XXXX 1677167029790, Thread 317: XXXX 1677167029790, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167029793 XXXX 1677167029793, Thread 317: XXXX 1677167029793, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167029892 XXXX 1677167029892, Thread 317: XXXX 1677167029892, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167029894 XXXX 1677167029894, Thread 317: XXXX 1677167029894, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167029997 XXXX 1677167029997, Thread 317: XXXX 1677167029997, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167030000 XXXX 1677167030000, Thread 317: XXXX 1677167030000, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167030097 XXXX 1677167030097, Thread 317: XXXX 1677167030097, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167030098 XXXX 1677167030098, Thread 317: XXXX 1677167030098, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167030199 XXXX 1677167030199, Thread 317: XXXX 1677167030199, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167030200 XXXX 1677167030200, Thread 317: XXXX 1677167030200, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167030302 XXXX 1677167030302, Thread 317: XXXX 1677167030302, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167030303 XXXX 1677167030303, Thread 317: XXXX 1677167030303, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167030403 XXXX 1677167030403, Thread 317: XXXX 1677167030403, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167030404 XXXX 1677167030404, Thread 317: XXXX 1677167030404, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167030504 XXXX 1677167030504, Thread 317: XXXX 1677167030504, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167030505 XXXX 1677167030505, Thread 317: XXXX 1677167030505, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167030604 XXXX 1677167030604, Thread 317: XXXX 1677167030604, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167030606 XXXX 1677167030606, Thread 317: XXXX 1677167030606, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167030706 XXXX 1677167030706, Thread 317: XXXX 1677167030706, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167030709 XXXX 1677167030709, Thread 317: XXXX 1677167030709, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167030809 XXXX 1677167030809, Thread 317: XXXX 1677167030809, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167030811 XXXX 1677167030811, Thread 317: XXXX 1677167030811, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167030911 XXXX 1677167030911, Thread 317: XXXX 1677167030911, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167030913 XXXX 1677167030913, Thread 317: XXXX 1677167030913, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167031012 XXXX 1677167031012, Thread 317: XXXX 1677167031012, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167031014 XXXX 1677167031014, Thread 317: XXXX 1677167031014, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167031119 XXXX 1677167031119, Thread 317: XXXX 1677167031119, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167031121 XXXX 1677167031121, Thread 317: XXXX 1677167031121, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167031224 XXXX 1677167031224, Thread 317: XXXX 1677167031224, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167031227 XXXX 1677167031227, Thread 317: XXXX 1677167031227, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167031332 XXXX 1677167031332, Thread 317: XXXX 1677167031332, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167031333 XXXX 1677167031333, Thread 317: XXXX 1677167031333, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167031435 XXXX 1677167031435, Thread 317: XXXX 1677167031435, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167031437 XXXX 1677167031437, Thread 317: XXXX 1677167031437, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167031537 XXXX 1677167031537, Thread 317: XXXX 1677167031537, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167031540 XXXX 1677167031540, Thread 317: XXXX 1677167031540, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167031639 XXXX 1677167031639, Thread 317: XXXX 1677167031639, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167031641 XXXX 1677167031641, Thread 317: XXXX 1677167031641, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167031743 XXXX 1677167031743, Thread 317: XXXX 1677167031743, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167031744 XXXX 1677167031744, Thread 317: XXXX 1677167031744, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167031845 XXXX 1677167031845, Thread 317: XXXX 1677167031845, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167031847 XXXX 1677167031847, Thread 317: XXXX 1677167031847, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167031945 XXXX 1677167031945, Thread 317: XXXX 1677167031945, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167031946 XXXX 1677167031946, Thread 317: XXXX 1677167031946, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167032071 XXXX 1677167032071, Thread 317: XXXX 1677167032071, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167032072 XXXX 1677167032072, Thread 317: XXXX 1677167032072, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167032172 XXXX 1677167032172, Thread 317: XXXX 1677167032172, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167032174 XXXX 1677167032174, Thread 317: XXXX 1677167032174, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167032274 XXXX 1677167032274, Thread 317: XXXX 1677167032274, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167032275 XXXX 1677167032275, Thread 317: XXXX 1677167032275, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167032376 XXXX 1677167032376, Thread 317: XXXX 1677167032376, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167032377 XXXX 1677167032377, Thread 317: XXXX 1677167032377, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167032476 XXXX 1677167032476, Thread 317: XXXX 1677167032476, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167032478 XXXX 1677167032478, Thread 317: XXXX 1677167032478, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167032578 XXXX 1677167032578, Thread 317: XXXX 1677167032578, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167032579 XXXX 1677167032579, Thread 317: XXXX 1677167032579, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167032681 XXXX 1677167032681, Thread 317: XXXX 1677167032681, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167032682 XXXX 1677167032682, Thread 317: XXXX 1677167032682, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167032783 XXXX 1677167032783, Thread 317: XXXX 1677167032783, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167032784 XXXX 1677167032784, Thread 317: XXXX 1677167032784, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167032887 XXXX 1677167032887, Thread 317: XXXX 1677167032887, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167032889 XXXX 1677167032889, Thread 317: XXXX 1677167032889, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167032992 XXXX 1677167032992, Thread 317: XXXX 1677167032992, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167032993 XXXX 1677167032993, Thread 317: XXXX 1677167032993, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167033093 XXXX 1677167033093, Thread 317: XXXX 1677167033093, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167033094 XXXX 1677167033094, Thread 317: XXXX 1677167033094, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167033197 XXXX 1677167033197, Thread 317: XXXX 1677167033197, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167033199 XXXX 1677167033199, Thread 317: XXXX 1677167033199, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167033303 XXXX 1677167033303, Thread 317: XXXX 1677167033303, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167033305 XXXX 1677167033305, Thread 317: XXXX 1677167033305, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167033406 XXXX 1677167033406, Thread 317: XXXX 1677167033406, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167033407 XXXX 1677167033407, Thread 317: XXXX 1677167033407, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167033511 XXXX 1677167033511, Thread 317: XXXX 1677167033511, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167033513 XXXX 1677167033513, Thread 317: XXXX 1677167033513, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167033612 XXXX 1677167033612, Thread 317: XXXX 1677167033612, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167033613 XXXX 1677167033613, Thread 317: XXXX 1677167033613, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167033715 XXXX 1677167033715, Thread 317: XXXX 1677167033715, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167033717 XXXX 1677167033717, Thread 317: XXXX 1677167033717, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167033818 XXXX 1677167033818, Thread 317: XXXX 1677167033818, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167033820 XXXX 1677167033820, Thread 317: XXXX 1677167033820, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167033920 XXXX 1677167033920, Thread 317: XXXX 1677167033920, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167033923 XXXX 1677167033923, Thread 317: XXXX 1677167033923, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167034025 XXXX 1677167034025, Thread 317: XXXX 1677167034025, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167034026 XXXX 1677167034026, Thread 317: XXXX 1677167034026, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167034127 XXXX 1677167034127, Thread 317: XXXX 1677167034127, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167034128 XXXX 1677167034128, Thread 317: XXXX 1677167034128, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167034229 XXXX 1677167034229, Thread 317: XXXX 1677167034229, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167034230 XXXX 1677167034230, Thread 317: XXXX 1677167034230, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167034329 XXXX 1677167034329, Thread 317: XXXX 1677167034329, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167034330 XXXX 1677167034330, Thread 317: XXXX 1677167034330, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167034437 XXXX 1677167034437, Thread 317: XXXX 1677167034437, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167034438 XXXX 1677167034438, Thread 317: XXXX 1677167034438, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167034539 XXXX 1677167034539, Thread 317: XXXX 1677167034539, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167034542 XXXX 1677167034542, Thread 317: XXXX 1677167034542, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167034641 XXXX 1677167034641, Thread 317: XXXX 1677167034641, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167034643 XXXX 1677167034643, Thread 317: XXXX 1677167034642, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167034743 XXXX 1677167034743, Thread 317: XXXX 1677167034743, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167034744 XXXX 1677167034744, Thread 317: XXXX 1677167034744, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167034845 XXXX 1677167034845, Thread 317: XXXX 1677167034845, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167034846 XXXX 1677167034846, Thread 317: XXXX 1677167034846, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167034946 XXXX 1677167034946, Thread 317: XXXX 1677167034946, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167034947 XXXX 1677167034947, Thread 317: XXXX 1677167034947, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167035046 XXXX 1677167035046, Thread 317: XXXX 1677167035046, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167035047 XXXX 1677167035047, Thread 317: XXXX 1677167035047, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167035148 XXXX 1677167035148, Thread 317: XXXX 1677167035148, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167035150 XXXX 1677167035150, Thread 317: XXXX 1677167035150, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167035251 XXXX 1677167035251, Thread 317: XXXX 1677167035251, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167035252 XXXX 1677167035252, Thread 317: XXXX 1677167035252, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167035354 XXXX 1677167035354, Thread 317: XXXX 1677167035354, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167035356 XXXX 1677167035356, Thread 317: XXXX 1677167035356, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167035455 XXXX 1677167035455, Thread 317: XXXX 1677167035455, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167035458 XXXX 1677167035458, Thread 317: XXXX 1677167035458, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167035558 XXXX 1677167035558, Thread 317: XXXX 1677167035558, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167035560 XXXX 1677167035560, Thread 317: XXXX 1677167035560, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167035660 XXXX 1677167035660, Thread 317: XXXX 1677167035660, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167035664 XXXX 1677167035664, Thread 317: XXXX 1677167035664, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167035762 XXXX 1677167035762, Thread 317: XXXX 1677167035762, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167035764 XXXX 1677167035764, Thread 317: XXXX 1677167035764, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167035866 XXXX 1677167035866, Thread 317: XXXX 1677167035866, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167035868 XXXX 1677167035868, Thread 317: XXXX 1677167035868, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167035970 XXXX 1677167035968, Thread 317: XXXX 1677167035968, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167035971 XXXX 1677167035971, Thread 317: XXXX 1677167035971, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167036070 XXXX 1677167036070, Thread 317: XXXX 1677167036070, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167036071 XXXX 1677167036071, Thread 317: XXXX 1677167036071, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167036172 XXXX 1677167036172, Thread 317: XXXX 1677167036172, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167036173 XXXX 1677167036173, Thread 317: XXXX 1677167036173, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167036273 XXXX 1677167036273, Thread 317: XXXX 1677167036273, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167036275 XXXX 1677167036275, Thread 317: XXXX 1677167036275, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167036375 XXXX 1677167036375, Thread 317: XXXX 1677167036375, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167036376 XXXX 1677167036376, Thread 317: XXXX 1677167036376, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167036478 XXXX 1677167036478, Thread 317: XXXX 1677167036478, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167036479 XXXX 1677167036479, Thread 317: XXXX 1677167036479, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167036579 XXXX 1677167036579, Thread 317: XXXX 1677167036579, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167036581 XXXX 1677167036581, Thread 317: XXXX 1677167036581, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167036681 XXXX 1677167036681, Thread 317: XXXX 1677167036681, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167036683 XXXX 1677167036683, Thread 317: XXXX 1677167036683, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167036781 XXXX 1677167036781, Thread 317: XXXX 1677167036781, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167036782 XXXX 1677167036782, Thread 317: XXXX 1677167036782, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167036883 XXXX 1677167036883, Thread 317: XXXX 1677167036883, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167036885 XXXX 1677167036885, Thread 317: XXXX 1677167036885, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167036984 XXXX 1677167036984, Thread 317: XXXX 1677167036984, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167036986 XXXX 1677167036986, Thread 317: XXXX 1677167036986, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167037086 XXXX 1677167037086, Thread 317: XXXX 1677167037086, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167037088 XXXX 1677167037088, Thread 317: XXXX 1677167037088, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167037187 XXXX 1677167037187, Thread 317: XXXX 1677167037187, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167037187 XXXX 1677167037187, Thread 317: XXXX 1677167037187, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167037288 XXXX 1677167037288, Thread 317: XXXX 1677167037288, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167037289 XXXX 1677167037289, Thread 317: XXXX 1677167037289, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167037387 XXXX 1677167037387, Thread 317: XXXX 1677167037387, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167037388 XXXX 1677167037388, Thread 317: XXXX 1677167037388, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167037490 XXXX 1677167037490, Thread 317: XXXX 1677167037490, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167037492 XXXX 1677167037492, Thread 317: XXXX 1677167037492, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167037593 XXXX 1677167037593, Thread 317: XXXX 1677167037592, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167037594 XXXX 1677167037594, Thread 317: XXXX 1677167037594, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167037695 XXXX 1677167037695, Thread 317: XXXX 1677167037695, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167037696 XXXX 1677167037696, Thread 317: XXXX 1677167037696, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167037799 XXXX 1677167037799, Thread 317: XXXX 1677167037799, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167037800 XXXX 1677167037800, Thread 317: XXXX 1677167037800, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167037904 XXXX 1677167037904, Thread 317: XXXX 1677167037904, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167037905 XXXX 1677167037905, Thread 317: XXXX 1677167037905, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167038009 XXXX 1677167038009, Thread 317: XXXX 1677167038009, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167038011 XXXX 1677167038011, Thread 317: XXXX 1677167038011, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167038112 XXXX 1677167038112, Thread 317: XXXX 1677167038112, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167038115 XXXX 1677167038115, Thread 317: XXXX 1677167038115, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167038215 XXXX 1677167038215, Thread 317: XXXX 1677167038215, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167038217 XXXX 1677167038217, Thread 317: XXXX 1677167038217, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167038316 XXXX 1677167038316, Thread 317: XXXX 1677167038316, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167038317 XXXX 1677167038317, Thread 317: XXXX 1677167038317, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167038417 XXXX 1677167038417, Thread 317: XXXX 1677167038417, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167038418 XXXX 1677167038418, Thread 317: XXXX 1677167038418, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167038517 XXXX 1677167038517, Thread 317: XXXX 1677167038517, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167038519 XXXX 1677167038519, Thread 317: XXXX 1677167038519, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167038620 XXXX 1677167038620, Thread 317: XXXX 1677167038620, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167038621 XXXX 1677167038621, Thread 317: XXXX 1677167038621, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167038725 XXXX 1677167038725, Thread 317: XXXX 1677167038725, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167038727 XXXX 1677167038727, Thread 317: XXXX 1677167038727, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167038826 XXXX 1677167038826, Thread 317: XXXX 1677167038826, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167038827 XXXX 1677167038827, Thread 317: XXXX 1677167038827, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167038928 XXXX 1677167038928, Thread 317: XXXX 1677167038928, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167038930 XXXX 1677167038930, Thread 317: XXXX 1677167038930, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167039030 XXXX 1677167039030, Thread 317: XXXX 1677167039030, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167039032 XXXX 1677167039032, Thread 317: XXXX 1677167039032, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167039134 XXXX 1677167039134, Thread 317: XXXX 1677167039134, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167039136 XXXX 1677167039136, Thread 317: XXXX 1677167039136, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167039235 XXXX 1677167039235, Thread 317: XXXX 1677167039235, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167039236 XXXX 1677167039236, Thread 317: XXXX 1677167039236, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167039346 XXXX 1677167039346, Thread 317: XXXX 1677167039346, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167039348 XXXX 1677167039348, Thread 317: XXXX 1677167039348, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167039447 XXXX 1677167039447, Thread 317: XXXX 1677167039447, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167039449 XXXX 1677167039449, Thread 317: XXXX 1677167039449, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167039549 XXXX 1677167039549, Thread 317: XXXX 1677167039549, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167039550 XXXX 1677167039550, Thread 317: XXXX 1677167039550, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167039651 XXXX 1677167039651, Thread 317: XXXX 1677167039651, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167039651 XXXX 1677167039651, Thread 317: XXXX 1677167039651, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167039752 XXXX 1677167039752, Thread 317: XXXX 1677167039752, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167039754 XXXX 1677167039754, Thread 317: XXXX 1677167039754, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167039855 XXXX 1677167039855, Thread 317: XXXX 1677167039855, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167039857 XXXX 1677167039857, Thread 317: XXXX 1677167039857, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167039958 XXXX 1677167039958, Thread 317: XXXX 1677167039958, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167039960 XXXX 1677167039960, Thread 317: XXXX 1677167039960, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167040060 XXXX 1677167040060, Thread 317: XXXX 1677167040060, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167040062 XXXX 1677167040062, Thread 317: XXXX 1677167040062, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167040163 XXXX 1677167040163, Thread 317: XXXX 1677167040163, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167040165 XXXX 1677167040165, Thread 317: XXXX 1677167040165, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167040266 XXXX 1677167040266, Thread 317: XXXX 1677167040266, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167040267 XXXX 1677167040267, Thread 317: XXXX 1677167040267, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167040367 XXXX 1677167040367, Thread 317: XXXX 1677167040367, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167040368 XXXX 1677167040368, Thread 317: XXXX 1677167040368, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167040469 XXXX 1677167040469, Thread 317: XXXX 1677167040469, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167040471 XXXX 1677167040471, Thread 317: XXXX 1677167040471, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167040570 XXXX 1677167040570, Thread 317: XXXX 1677167040570, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167040571 XXXX 1677167040571, Thread 317: XXXX 1677167040571, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167040671 XXXX 1677167040671, Thread 317: XXXX 1677167040671, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167040672 XXXX 1677167040672, Thread 317: XXXX 1677167040672, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167040774 XXXX 1677167040774, Thread 317: XXXX 1677167040774, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167040775 XXXX 1677167040775, Thread 317: XXXX 1677167040775, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167040876 XXXX 1677167040876, Thread 317: XXXX 1677167040876, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167040878 XXXX 1677167040878, Thread 317: XXXX 1677167040878, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167040978 XXXX 1677167040978, Thread 317: XXXX 1677167040978, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167040980 XXXX 1677167040980, Thread 317: XXXX 1677167040980, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167041081 XXXX 1677167041081, Thread 317: XXXX 1677167041081, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167041082 XXXX 1677167041082, Thread 317: XXXX 1677167041082, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167041183 XXXX 1677167041183, Thread 317: XXXX 1677167041183, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167041184 XXXX 1677167041184, Thread 317: XXXX 1677167041184, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167041287 XXXX 1677167041287, Thread 317: XXXX 1677167041287, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167041288 XXXX 1677167041288, Thread 317: XXXX 1677167041288, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167041389 XXXX 1677167041389, Thread 317: XXXX 1677167041389, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167041390 XXXX 1677167041390, Thread 317: XXXX 1677167041390, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167041491 XXXX 1677167041491, Thread 317: XXXX 1677167041491, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167041492 XXXX 1677167041492, Thread 317: XXXX 1677167041492, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167041592 XXXX 1677167041592, Thread 317: XXXX 1677167041592, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167041593 XXXX 1677167041593, Thread 317: XXXX 1677167041593, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167041692 XXXX 1677167041692, Thread 317: XXXX 1677167041692, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167041694 XXXX 1677167041694, Thread 317: XXXX 1677167041694, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167041793 XXXX 1677167041793, Thread 317: XXXX 1677167041793, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167041794 XXXX 1677167041794, Thread 317: XXXX 1677167041794, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167041894 XXXX 1677167041894, Thread 317: XXXX 1677167041894, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167041896 XXXX 1677167041896, Thread 317: XXXX 1677167041896, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167041995 XXXX 1677167041995, Thread 317: XXXX 1677167041995, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167041997 XXXX 1677167041997, Thread 317: XXXX 1677167041997, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167042097 XXXX 1677167042097, Thread 317: XXXX 1677167042097, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167042098 XXXX 1677167042098, Thread 317: XXXX 1677167042098, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167042196 XXXX 1677167042196, Thread 317: XXXX 1677167042196, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167042198 XXXX 1677167042198, Thread 317: XXXX 1677167042198, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167042317 XXXX 1677167042317, Thread 317: XXXX 1677167042317, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167042320 XXXX 1677167042320, Thread 317: XXXX 1677167042319, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167042420 XXXX 1677167042420, Thread 317: XXXX 1677167042420, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167042422 XXXX 1677167042422, Thread 317: XXXX 1677167042422, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167042522 XXXX 1677167042522, Thread 317: XXXX 1677167042522, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167042523 XXXX 1677167042523, Thread 317: XXXX 1677167042523, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167042623 XXXX 1677167042623, Thread 317: XXXX 1677167042623, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167042623 XXXX 1677167042623, Thread 317: XXXX 1677167042623, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167042724 XXXX 1677167042724, Thread 317: XXXX 1677167042724, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167042726 XXXX 1677167042726, Thread 317: XXXX 1677167042726, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167042827 XXXX 1677167042827, Thread 317: XXXX 1677167042827, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167042828 XXXX 1677167042828, Thread 317: XXXX 1677167042828, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167042928 XXXX 1677167042928, Thread 317: XXXX 1677167042928, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167042930 XXXX 1677167042930, Thread 317: XXXX 1677167042930, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167043038 XXXX 1677167043038, Thread 317: XXXX 1677167043038, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167043039 XXXX 1677167043039, Thread 317: XXXX 1677167043039, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167043138 XXXX 1677167043138, Thread 317: XXXX 1677167043138, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167043140 XXXX 1677167043140, Thread 317: XXXX 1677167043140, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167043239 XXXX 1677167043239, Thread 317: XXXX 1677167043239, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167043240 XXXX 1677167043240, Thread 317: XXXX 1677167043240, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167043339 XXXX 1677167043339, Thread 317: XXXX 1677167043339, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167043340 XXXX 1677167043340, Thread 317: XXXX 1677167043340, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167043441 XXXX 1677167043441, Thread 317: XXXX 1677167043441, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167043442 XXXX 1677167043442, Thread 317: XXXX 1677167043442, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167043543 XXXX 1677167043543, Thread 317: XXXX 1677167043543, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167043543 XXXX 1677167043543, Thread 317: XXXX 1677167043543, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167043645 XXXX 1677167043645, Thread 317: XXXX 1677167043645, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167043646 XXXX 1677167043646, Thread 317: XXXX 1677167043646, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167043758 XXXX 1677167043758, Thread 317: XXXX 1677167043758, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167043758 XXXX 1677167043758, Thread 317: XXXX 1677167043758, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167043861 XXXX 1677167043861, Thread 317: XXXX 1677167043861, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167043863 XXXX 1677167043863, Thread 317: XXXX 1677167043863, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167043961 XXXX 1677167043961, Thread 317: XXXX 1677167043961, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167043964 XXXX 1677167043964, Thread 317: XXXX 1677167043964, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167044062 XXXX 1677167044062, Thread 317: XXXX 1677167044062, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167044064 XXXX 1677167044064, Thread 317: XXXX 1677167044064, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167044163 XXXX 1677167044163, Thread 317: XXXX 1677167044163, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167044164 XXXX 1677167044164, Thread 317: XXXX 1677167044164, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167044264 XXXX 1677167044264, Thread 317: XXXX 1677167044264, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167044266 XXXX 1677167044266, Thread 317: XXXX 1677167044266, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167044365 XXXX 1677167044365, Thread 317: XXXX 1677167044365, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167044366 XXXX 1677167044366, Thread 317: XXXX 1677167044366, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167044465 XXXX 1677167044465, Thread 317: XXXX 1677167044465, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167044466 XXXX 1677167044466, Thread 317: XXXX 1677167044466, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167044568 XXXX 1677167044568, Thread 317: XXXX 1677167044568, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167044570 XXXX 1677167044570, Thread 317: XXXX 1677167044570, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167044670 XXXX 1677167044670, Thread 317: XXXX 1677167044670, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167044671 XXXX 1677167044671, Thread 317: XXXX 1677167044671, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167044771 XXXX 1677167044771, Thread 317: XXXX 1677167044771, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167044772 XXXX 1677167044772, Thread 317: XXXX 1677167044772, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167044872 XXXX 1677167044872, Thread 317: XXXX 1677167044872, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167044874 XXXX 1677167044874, Thread 317: XXXX 1677167044874, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167044973 XXXX 1677167044973, Thread 317: XXXX 1677167044973, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167044974 XXXX 1677167044974, Thread 317: XXXX 1677167044974, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167045073 XXXX 1677167045073, Thread 317: XXXX 1677167045073, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167045074 XXXX 1677167045074, Thread 317: XXXX 1677167045074, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167045173 XXXX 1677167045173, Thread 317: XXXX 1677167045173, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167045176 XXXX 1677167045176, Thread 317: XXXX 1677167045176, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167045276 XXXX 1677167045276, Thread 317: XXXX 1677167045276, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167045277 XXXX 1677167045277, Thread 317: XXXX 1677167045277, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167045377 XXXX 1677167045377, Thread 317: XXXX 1677167045377, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167045379 XXXX 1677167045379, Thread 317: XXXX 1677167045379, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167045478 XXXX 1677167045478, Thread 317: XXXX 1677167045478, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167045480 XXXX 1677167045480, Thread 317: XXXX 1677167045480, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167045579 XXXX 1677167045579, Thread 317: XXXX 1677167045579, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167045582 XXXX 1677167045582, Thread 317: XXXX 1677167045582, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167045684 XXXX 1677167045684, Thread 317: XXXX 1677167045684, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167045688 XXXX 1677167045688, Thread 317: XXXX 1677167045688, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167045784 XXXX 1677167045784, Thread 317: XXXX 1677167045784, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167045787 XXXX 1677167045787, Thread 317: XXXX 1677167045787, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167045887 XXXX 1677167045887, Thread 317: XXXX 1677167045887, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167045889 XXXX 1677167045889, Thread 317: XXXX 1677167045889, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167045989 XXXX 1677167045989, Thread 317: XXXX 1677167045989, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167045990 XXXX 1677167045990, Thread 317: XXXX 1677167045990, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167046090 XXXX 1677167046090, Thread 317: XXXX 1677167046090, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167046091 XXXX 1677167046091, Thread 317: XXXX 1677167046091, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167046191 XXXX 1677167046191, Thread 317: XXXX 1677167046191, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167046193 XXXX 1677167046193, Thread 317: XXXX 1677167046193, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167046293 XXXX 1677167046293, Thread 317: XXXX 1677167046293, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167046294 XXXX 1677167046294, Thread 317: XXXX 1677167046294, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167046394 XXXX 1677167046394, Thread 317: XXXX 1677167046394, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167046396 XXXX 1677167046396, Thread 317: XXXX 1677167046396, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167046495 XXXX 1677167046495, Thread 317: XXXX 1677167046495, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167046496 XXXX 1677167046496, Thread 317: XXXX 1677167046496, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167046596 XXXX 1677167046596, Thread 317: XXXX 1677167046596, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167046598 XXXX 1677167046598, Thread 317: XXXX 1677167046598, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167046698 XXXX 1677167046698, Thread 317: XXXX 1677167046698, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167046699 XXXX 1677167046699, Thread 317: XXXX 1677167046699, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167046799 XXXX 1677167046799, Thread 317: XXXX 1677167046799, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167046800 XXXX 1677167046800, Thread 317: XXXX 1677167046800, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167046901 XXXX 1677167046901, Thread 317: XXXX 1677167046901, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167046903 XXXX 1677167046903, Thread 317: XXXX 1677167046903, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167047003 XXXX 1677167047003, Thread 317: XXXX 1677167047003, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167047005 XXXX 1677167047005, Thread 317: XXXX 1677167047005, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167047106 XXXX 1677167047106, Thread 317: XXXX 1677167047106, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167047108 XXXX 1677167047108, Thread 317: XXXX 1677167047108, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167047207 XXXX 1677167047207, Thread 317: XXXX 1677167047207, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167047209 XXXX 1677167047209, Thread 317: XXXX 1677167047209, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167047308 XXXX 1677167047308, Thread 317: XXXX 1677167047308, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167047310 XXXX 1677167047310, Thread 317: XXXX 1677167047310, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167047410 XXXX 1677167047410, Thread 317: XXXX 1677167047410, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167047410 XXXX 1677167047410, Thread 317: XXXX 1677167047410, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167047511 XXXX 1677167047511, Thread 317: XXXX 1677167047511, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167047512 XXXX 1677167047512, Thread 317: XXXX 1677167047512, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167047611 XXXX 1677167047611, Thread 317: XXXX 1677167047611, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167047613 XXXX 1677167047613, Thread 317: XXXX 1677167047613, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167047713 XXXX 1677167047713, Thread 317: XXXX 1677167047713, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167047714 XXXX 1677167047714, Thread 317: XXXX 1677167047714, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167047814 XXXX 1677167047814, Thread 317: XXXX 1677167047814, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167047816 XXXX 1677167047816, Thread 317: XXXX 1677167047816, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167047916 XXXX 1677167047916, Thread 317: XXXX 1677167047916, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167047917 XXXX 1677167047917, Thread 317: XXXX 1677167047917, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167048017 XXXX 1677167048017, Thread 317: XXXX 1677167048017, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167048018 XXXX 1677167048018, Thread 317: XXXX 1677167048018, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167048119 XXXX 1677167048119, Thread 317: XXXX 1677167048119, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167048121 XXXX 1677167048121, Thread 317: XXXX 1677167048121, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167048221 XXXX 1677167048221, Thread 317: XXXX 1677167048221, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167048224 XXXX 1677167048224, Thread 317: XXXX 1677167048224, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167048322 XXXX 1677167048322, Thread 317: XXXX 1677167048322, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167048324 XXXX 1677167048324, Thread 317: XXXX 1677167048324, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167048426 XXXX 1677167048426, Thread 317: XXXX 1677167048426, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167048428 XXXX 1677167048428, Thread 317: XXXX 1677167048428, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167048528 XXXX 1677167048528, Thread 317: XXXX 1677167048528, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167048529 XXXX 1677167048529, Thread 317: XXXX 1677167048529, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167048629 XXXX 1677167048629, Thread 317: XXXX 1677167048629, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167048632 XXXX 1677167048632, Thread 317: XXXX 1677167048632, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167048730 XXXX 1677167048730, Thread 317: XXXX 1677167048730, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167048731 XXXX 1677167048731, Thread 317: XXXX 1677167048731, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167048832 XXXX 1677167048832, Thread 317: XXXX 1677167048832, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167048834 XXXX 1677167048834, Thread 317: XXXX 1677167048834, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167048932 XXXX 1677167048932, Thread 317: XXXX 1677167048932, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167048934 XXXX 1677167048934, Thread 317: XXXX 1677167048934, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167049033 XXXX 1677167049033, Thread 317: XXXX 1677167049033, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167049035 XXXX 1677167049035, Thread 317: XXXX 1677167049035, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167049135 XXXX 1677167049135, Thread 317: XXXX 1677167049135, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167049136 XXXX 1677167049136, Thread 317: XXXX 1677167049136, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167049240 XXXX 1677167049240, Thread 317: XXXX 1677167049240, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167049242 XXXX 1677167049242, Thread 317: XXXX 1677167049242, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167049344 XXXX 1677167049344, Thread 317: XXXX 1677167049344, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167049345 XXXX 1677167049345, Thread 317: XXXX 1677167049345, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167049445 XXXX 1677167049445, Thread 317: XXXX 1677167049445, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167049446 XXXX 1677167049446, Thread 317: XXXX 1677167049446, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167049547 XXXX 1677167049547, Thread 317: XXXX 1677167049547, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167049549 XXXX 1677167049549, Thread 317: XXXX 1677167049549, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167049649 XXXX 1677167049649, Thread 317: XXXX 1677167049649, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167049651 XXXX 1677167049651, Thread 317: XXXX 1677167049651, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167049751 XXXX 1677167049751, Thread 317: XXXX 1677167049751, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167049752 XXXX 1677167049752, Thread 317: XXXX 1677167049752, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167049852 XXXX 1677167049852, Thread 317: XXXX 1677167049852, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167049854 XXXX 1677167049854, Thread 317: XXXX 1677167049854, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167049962 XXXX 1677167049962, Thread 317: XXXX 1677167049962, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167049964 XXXX 1677167049964, Thread 317: XXXX 1677167049964, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167050063 XXXX 1677167050063, Thread 317: XXXX 1677167050063, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167050065 XXXX 1677167050065, Thread 317: XXXX 1677167050065, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167050165 XXXX 1677167050165, Thread 317: XXXX 1677167050165, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167050166 XXXX 1677167050166, Thread 317: XXXX 1677167050166, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167050268 XXXX 1677167050268, Thread 317: XXXX 1677167050268, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167050270 XXXX 1677167050270, Thread 317: XXXX 1677167050270, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167050370 XXXX 1677167050370, Thread 317: XXXX 1677167050370, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167050372 XXXX 1677167050372, Thread 317: XXXX 1677167050371, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167050472 XXXX 1677167050472, Thread 317: XXXX 1677167050472, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167050473 XXXX 1677167050473, Thread 317: XXXX 1677167050473, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167050572 XXXX 1677167050572, Thread 317: XXXX 1677167050572, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167050573 XXXX 1677167050573, Thread 317: XXXX 1677167050573, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167050673 XXXX 1677167050673, Thread 317: XXXX 1677167050673, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167050675 XXXX 1677167050675, Thread 317: XXXX 1677167050675, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167050775 XXXX 1677167050775, Thread 317: XXXX 1677167050775, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167050776 XXXX 1677167050776, Thread 317: XXXX 1677167050776, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167050876 XXXX 1677167050876, Thread 317: XXXX 1677167050876, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167050878 XXXX 1677167050878, Thread 317: XXXX 1677167050878, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167050976 XXXX 1677167050976, Thread 317: XXXX 1677167050976, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167050977 XXXX 1677167050977, Thread 317: XXXX 1677167050977, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167051077 XXXX 1677167051077, Thread 317: XXXX 1677167051077, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167051078 XXXX 1677167051078, Thread 317: XXXX 1677167051078, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167051179 XXXX 1677167051179, Thread 317: XXXX 1677167051179, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167051181 XXXX 1677167051181, Thread 317: XXXX 1677167051181, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167051279 XXXX 1677167051279, Thread 317: XXXX 1677167051279, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167051281 XXXX 1677167051281, Thread 317: XXXX 1677167051281, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167051380 XXXX 1677167051380, Thread 317: XXXX 1677167051380, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167051381 XXXX 1677167051381, Thread 317: XXXX 1677167051381, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167051480 XXXX 1677167051480, Thread 317: XXXX 1677167051480, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167051482 XXXX 1677167051482, Thread 317: XXXX 1677167051481, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167051582 XXXX 1677167051582, Thread 317: XXXX 1677167051582, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167051584 XXXX 1677167051584, Thread 317: XXXX 1677167051584, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167051683 XXXX 1677167051683, Thread 317: XXXX 1677167051683, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167051684 XXXX 1677167051684, Thread 317: XXXX 1677167051684, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167051783 XXXX 1677167051783, Thread 317: XXXX 1677167051783, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167051785 XXXX 1677167051785, Thread 317: XXXX 1677167051785, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167051883 XXXX 1677167051883, Thread 317: XXXX 1677167051883, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167051884 XXXX 1677167051884, Thread 317: XXXX 1677167051884, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167051991 XXXX 1677167051991, Thread 317: XXXX 1677167051991, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167051992 XXXX 1677167051992, Thread 317: XXXX 1677167051992, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167052092 XXXX 1677167052092, Thread 317: XXXX 1677167052092, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167052094 XXXX 1677167052094, Thread 317: XXXX 1677167052094, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167052194 XXXX 1677167052194, Thread 317: XXXX 1677167052194, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167052194 XXXX 1677167052194, Thread 317: XXXX 1677167052194, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167052294 XXXX 1677167052294, Thread 317: XXXX 1677167052294, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167052296 XXXX 1677167052296, Thread 317: XXXX 1677167052296, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167052396 XXXX 1677167052396, Thread 317: XXXX 1677167052396, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167052398 XXXX 1677167052398, Thread 317: XXXX 1677167052398, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167052499 XXXX 1677167052499, Thread 317: XXXX 1677167052499, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167052500 XXXX 1677167052500, Thread 317: XXXX 1677167052500, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167052599 XXXX 1677167052599, Thread 317: XXXX 1677167052599, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167052600 XXXX 1677167052600, Thread 317: XXXX 1677167052600, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167052700 XXXX 1677167052700, Thread 317: XXXX 1677167052700, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167052701 XXXX 1677167052701, Thread 317: XXXX 1677167052701, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167052800 XXXX 1677167052800, Thread 317: XXXX 1677167052800, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167052802 XXXX 1677167052802, Thread 317: XXXX 1677167052802, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167052902 XXXX 1677167052902, Thread 317: XXXX 1677167052902, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167052902 XXXX 1677167052902, Thread 317: XXXX 1677167052902, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167053003 XXXX 1677167053003, Thread 317: XXXX 1677167053003, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167053005 XXXX 1677167053004, Thread 317: XXXX 1677167053004, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167053105 XXXX 1677167053105, Thread 317: XXXX 1677167053105, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167053107 XXXX 1677167053107, Thread 317: XXXX 1677167053107, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167053208 XXXX 1677167053208, Thread 317: XXXX 1677167053208, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167053209 XXXX 1677167053209, Thread 317: XXXX 1677167053209, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167053310 XXXX 1677167053310, Thread 317: XXXX 1677167053310, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167053311 XXXX 1677167053311, Thread 317: XXXX 1677167053311, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167053411 XXXX 1677167053411, Thread 317: XXXX 1677167053411, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167053412 XXXX 1677167053412, Thread 317: XXXX 1677167053412, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167053512 XXXX 1677167053512, Thread 317: XXXX 1677167053512, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167053514 XXXX 1677167053514, Thread 317: XXXX 1677167053514, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167053615 XXXX 1677167053615, Thread 317: XXXX 1677167053615, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167053616 XXXX 1677167053616, Thread 317: XXXX 1677167053616, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167053718 XXXX 1677167053718, Thread 317: XXXX 1677167053718, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167053719 XXXX 1677167053719, Thread 317: XXXX 1677167053719, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167053820 XXXX 1677167053820, Thread 317: XXXX 1677167053820, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167053821 XXXX 1677167053821, Thread 317: XXXX 1677167053821, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167053920 XXXX 1677167053920, Thread 317: XXXX 1677167053920, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167053921 XXXX 1677167053921, Thread 317: XXXX 1677167053921, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167054030 XXXX 1677167054030, Thread 317: XXXX 1677167054030, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167054031 XXXX 1677167054031, Thread 317: XXXX 1677167054031, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167054121 XXXX 1677167054121, Thread 317: XXXX 1677167054121, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167054122 XXXX 1677167054122, Thread 317: XXXX 1677167054122, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167054221 XXXX 1677167054221, Thread 317: XXXX 1677167054221, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167054222 XXXX 1677167054222, Thread 317: XXXX 1677167054222, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167054322 XXXX 1677167054322, Thread 317: XXXX 1677167054322, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167054323 XXXX 1677167054323, Thread 317: XXXX 1677167054323, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167054423 XXXX 1677167054423, Thread 317: XXXX 1677167054423, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167054425 XXXX 1677167054425, Thread 317: XXXX 1677167054425, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167054523 XXXX 1677167054523, Thread 317: XXXX 1677167054523, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167054524 XXXX 1677167054524, Thread 317: XXXX 1677167054524, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167054625 XXXX 1677167054625, Thread 317: XXXX 1677167054625, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167054626 XXXX 1677167054626, Thread 317: XXXX 1677167054626, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167054734 XXXX 1677167054734, Thread 317: XXXX 1677167054734, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167054735 XXXX 1677167054735, Thread 317: XXXX 1677167054735, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167054834 XXXX 1677167054834, Thread 317: XXXX 1677167054834, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167054836 XXXX 1677167054836, Thread 317: XXXX 1677167054836, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167054943 XXXX 1677167054943, Thread 317: XXXX 1677167054943, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167054945 XXXX 1677167054945, Thread 317: XXXX 1677167054945, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167055043 XXXX 1677167055043, Thread 317: XXXX 1677167055043, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167055044 XXXX 1677167055044, Thread 317: XXXX 1677167055044, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167055144 XXXX 1677167055144, Thread 317: XXXX 1677167055144, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167055146 XXXX 1677167055146, Thread 317: XXXX 1677167055146, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167055244 XXXX 1677167055244, Thread 317: XXXX 1677167055244, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167055245 XXXX 1677167055245, Thread 317: XXXX 1677167055245, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167055346 XXXX 1677167055346, Thread 317: XXXX 1677167055346, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167055347 XXXX 1677167055347, Thread 317: XXXX 1677167055347, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167055448 XXXX 1677167055448, Thread 317: XXXX 1677167055448, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167055449 XXXX 1677167055449, Thread 317: XXXX 1677167055449, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167055549 XXXX 1677167055549, Thread 317: XXXX 1677167055549, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167055551 XXXX 1677167055551, Thread 317: XXXX 1677167055551, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167055649 XXXX 1677167055649, Thread 317: XXXX 1677167055649, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167055652 XXXX 1677167055652, Thread 317: XXXX 1677167055652, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167055755 XXXX 1677167055755, Thread 317: XXXX 1677167055755, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167055758 XXXX 1677167055758, Thread 317: XXXX 1677167055758, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167055856 XXXX 1677167055856, Thread 317: XXXX 1677167055856, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167055857 XXXX 1677167055857, Thread 317: XXXX 1677167055857, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167055958 XXXX 1677167055958, Thread 317: XXXX 1677167055958, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167055959 XXXX 1677167055959, Thread 317: XXXX 1677167055959, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167056058 XXXX 1677167056058, Thread 317: XXXX 1677167056058, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167056060 XXXX 1677167056060, Thread 317: XXXX 1677167056060, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167056161 XXXX 1677167056161, Thread 317: XXXX 1677167056161, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167056164 XXXX 1677167056164, Thread 317: XXXX 1677167056164, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167056266 XXXX 1677167056266, Thread 317: XXXX 1677167056266, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167056270 XXXX 1677167056270, Thread 317: XXXX 1677167056270, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167056367 XXXX 1677167056367, Thread 317: XXXX 1677167056367, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167056369 XXXX 1677167056369, Thread 317: XXXX 1677167056369, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167056469 XXXX 1677167056469, Thread 317: XXXX 1677167056469, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167056472 XXXX 1677167056472, Thread 317: XXXX 1677167056472, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167056574 XXXX 1677167056574, Thread 317: XXXX 1677167056574, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167056575 XXXX 1677167056575, Thread 317: XXXX 1677167056575, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167056677 XXXX 1677167056677, Thread 317: XXXX 1677167056677, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167056678 XXXX 1677167056678, Thread 317: XXXX 1677167056678, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167056777 XXXX 1677167056777, Thread 317: XXXX 1677167056777, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167056778 XXXX 1677167056778, Thread 317: XXXX 1677167056778, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167056879 XXXX 1677167056879, Thread 317: XXXX 1677167056879, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167056880 XXXX 1677167056880, Thread 317: XXXX 1677167056880, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167056985 XXXX 1677167056985, Thread 317: XXXX 1677167056985, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167056986 XXXX 1677167056986, Thread 317: XXXX 1677167056986, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167057085 XXXX 1677167057085, Thread 317: XXXX 1677167057085, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167057086 XXXX 1677167057086, Thread 317: XXXX 1677167057086, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167057187 XXXX 1677167057187, Thread 317: XXXX 1677167057187, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167057188 XXXX 1677167057188, Thread 317: XXXX 1677167057188, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167057288 XXXX 1677167057288, Thread 317: XXXX 1677167057288, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167057289 XXXX 1677167057289, Thread 317: XXXX 1677167057289, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167057391 XXXX 1677167057391, Thread 317: XXXX 1677167057391, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167057392 XXXX 1677167057392, Thread 317: XXXX 1677167057392, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167057493 XXXX 1677167057493, Thread 317: XXXX 1677167057493, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167057494 XXXX 1677167057494, Thread 317: XXXX 1677167057494, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167057600 XXXX 1677167057600, Thread 317: XXXX 1677167057600, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167057601 XXXX 1677167057601, Thread 317: XXXX 1677167057601, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167057701 XXXX 1677167057701, Thread 317: XXXX 1677167057701, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167057703 XXXX 1677167057703, Thread 317: XXXX 1677167057703, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167057802 XXXX 1677167057802, Thread 317: XXXX 1677167057802, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167057803 XXXX 1677167057803, Thread 317: XXXX 1677167057803, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167057902 XXXX 1677167057902, Thread 317: XXXX 1677167057902, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167057904 XXXX 1677167057904, Thread 317: XXXX 1677167057904, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167058004 XXXX 1677167058004, Thread 317: XXXX 1677167058004, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167058006 XXXX 1677167058006, Thread 317: XXXX 1677167058006, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167058106 XXXX 1677167058106, Thread 317: XXXX 1677167058106, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167058106 XXXX 1677167058106, Thread 317: XXXX 1677167058106, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167058219 XXXX 1677167058219, Thread 317: XXXX 1677167058219, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167058219 XXXX 1677167058219, Thread 317: XXXX 1677167058219, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167058318 XXXX 1677167058318, Thread 317: XXXX 1677167058318, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167058319 XXXX 1677167058319, Thread 317: XXXX 1677167058319, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167058419 XXXX 1677167058419, Thread 317: XXXX 1677167058419, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167058420 XXXX 1677167058420, Thread 317: XXXX 1677167058420, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167058519 XXXX 1677167058519, Thread 317: XXXX 1677167058519, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167058520 XXXX 1677167058520, Thread 317: XXXX 1677167058520, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167058620 XXXX 1677167058620, Thread 317: XXXX 1677167058620, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167058621 XXXX 1677167058621, Thread 317: XXXX 1677167058621, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167058722 XXXX 1677167058722, Thread 317: XXXX 1677167058722, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167058724 XXXX 1677167058724, Thread 317: XXXX 1677167058724, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167058824 XXXX 1677167058824, Thread 317: XXXX 1677167058824, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167058824 XXXX 1677167058824, Thread 317: XXXX 1677167058824, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167058929 XXXX 1677167058929, Thread 317: XXXX 1677167058929, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167058930 XXXX 1677167058930, Thread 317: XXXX 1677167058930, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167059031 XXXX 1677167059031, Thread 317: XXXX 1677167059031, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167059032 XXXX 1677167059032, Thread 317: XXXX 1677167059032, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167059131 XXXX 1677167059131, Thread 317: XXXX 1677167059131, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167059132 XXXX 1677167059132, Thread 317: XXXX 1677167059132, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167059233 XXXX 1677167059233, Thread 317: XXXX 1677167059233, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167059235 XXXX 1677167059235, Thread 317: XXXX 1677167059235, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167059334 XXXX 1677167059334, Thread 317: XXXX 1677167059334, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167059335 XXXX 1677167059335, Thread 317: XXXX 1677167059335, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167059435 XXXX 1677167059435, Thread 317: XXXX 1677167059435, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167059436 XXXX 1677167059436, Thread 317: XXXX 1677167059436, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167059538 XXXX 1677167059538, Thread 317: XXXX 1677167059538, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167059540 XXXX 1677167059540, Thread 317: XXXX 1677167059540, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167059639 XXXX 1677167059639, Thread 317: XXXX 1677167059639, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167059640 XXXX 1677167059640, Thread 317: XXXX 1677167059640, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167059744 XXXX 1677167059744, Thread 317: XXXX 1677167059744, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167059746 XXXX 1677167059746, Thread 317: XXXX 1677167059746, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167059846 XXXX 1677167059846, Thread 317: XXXX 1677167059846, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167059848 XXXX 1677167059848, Thread 317: XXXX 1677167059848, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167059947 XXXX 1677167059947, Thread 317: XXXX 1677167059947, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167059948 XXXX 1677167059948, Thread 317: XXXX 1677167059948, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167060049 XXXX 1677167060049, Thread 317: XXXX 1677167060049, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167060050 XXXX 1677167060050, Thread 317: XXXX 1677167060050, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167060151 XXXX 1677167060151, Thread 317: XXXX 1677167060151, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167060152 XXXX 1677167060152, Thread 317: XXXX 1677167060152, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167060251 XXXX 1677167060251, Thread 317: XXXX 1677167060251, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167060254 XXXX 1677167060254, Thread 317: XXXX 1677167060254, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167060352 XXXX 1677167060352, Thread 317: XXXX 1677167060352, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167060354 XXXX 1677167060354, Thread 317: XXXX 1677167060354, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167060456 XXXX 1677167060456, Thread 317: XXXX 1677167060456, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167060457 XXXX 1677167060457, Thread 317: XXXX 1677167060457, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167060558 XXXX 1677167060558, Thread 317: XXXX 1677167060558, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167060560 XXXX 1677167060560, Thread 317: XXXX 1677167060560, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167060659 XXXX 1677167060659, Thread 317: XXXX 1677167060659, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167060660 XXXX 1677167060660, Thread 317: XXXX 1677167060660, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167060760 XXXX 1677167060760, Thread 317: XXXX 1677167060760, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167060761 XXXX 1677167060761, Thread 317: XXXX 1677167060761, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167060860 XXXX 1677167060860, Thread 317: XXXX 1677167060860, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167060861 XXXX 1677167060861, Thread 317: XXXX 1677167060861, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167060960 XXXX 1677167060960, Thread 317: XXXX 1677167060960, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167060962 XXXX 1677167060962, Thread 317: XXXX 1677167060962, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167061060 XXXX 1677167061060, Thread 317: XXXX 1677167061060, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167061062 XXXX 1677167061062, Thread 317: XXXX 1677167061062, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167061162 XXXX 1677167061162, Thread 317: XXXX 1677167061162, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167061163 XXXX 1677167061163, Thread 317: XXXX 1677167061163, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167061265 XXXX 1677167061265, Thread 317: XXXX 1677167061265, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167061266 XXXX 1677167061266, Thread 317: XXXX 1677167061266, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167061366 XXXX 1677167061366, Thread 317: XXXX 1677167061366, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167061367 XXXX 1677167061367, Thread 317: XXXX 1677167061367, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167061468 XXXX 1677167061468, Thread 317: XXXX 1677167061468, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167061470 XXXX 1677167061470, Thread 317: XXXX 1677167061470, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167061569 XXXX 1677167061569, Thread 317: XXXX 1677167061569, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167061571 XXXX 1677167061571, Thread 317: XXXX 1677167061571, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167061670 XXXX 1677167061670, Thread 317: XXXX 1677167061670, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167061672 XXXX 1677167061672, Thread 317: XXXX 1677167061672, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167061772 XXXX 1677167061772, Thread 317: XXXX 1677167061772, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167061773 XXXX 1677167061773, Thread 317: XXXX 1677167061773, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167061872 XXXX 1677167061872, Thread 317: XXXX 1677167061872, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167061874 XXXX 1677167061874, Thread 317: XXXX 1677167061874, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167061974 XXXX 1677167061974, Thread 317: XXXX 1677167061974, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167061975 XXXX 1677167061975, Thread 317: XXXX 1677167061975, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167062075 XXXX 1677167062075, Thread 317: XXXX 1677167062075, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167062077 XXXX 1677167062077, Thread 317: XXXX 1677167062077, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167062175 XXXX 1677167062175, Thread 317: XXXX 1677167062175, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167062176 XXXX 1677167062176, Thread 317: XXXX 1677167062176, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167062277 XXXX 1677167062277, Thread 317: XXXX 1677167062277, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167062279 XXXX 1677167062279, Thread 317: XXXX 1677167062279, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167062377 XXXX 1677167062377, Thread 317: XXXX 1677167062377, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167062380 XXXX 1677167062380, Thread 317: XXXX 1677167062380, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167062478 XXXX 1677167062478, Thread 317: XXXX 1677167062478, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167062481 XXXX 1677167062481, Thread 317: XXXX 1677167062481, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167062579 XXXX 1677167062579, Thread 317: XXXX 1677167062579, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167062581 XXXX 1677167062581, Thread 317: XXXX 1677167062581, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167062685 XXXX 1677167062685, Thread 317: XXXX 1677167062685, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167062686 XXXX 1677167062686, Thread 317: XXXX 1677167062686, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167062786 XXXX 1677167062786, Thread 317: XXXX 1677167062786, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167062788 XXXX 1677167062788, Thread 317: XXXX 1677167062788, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167062886 XXXX 1677167062886, Thread 317: XXXX 1677167062886, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167062887 XXXX 1677167062887, Thread 317: XXXX 1677167062887, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167062986 XXXX 1677167062986, Thread 317: XXXX 1677167062986, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167062989 XXXX 1677167062989, Thread 317: XXXX 1677167062989, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167063091 XXXX 1677167063091, Thread 317: XXXX 1677167063091, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167063092 XXXX 1677167063092, Thread 317: XXXX 1677167063092, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167063192 XXXX 1677167063192, Thread 317: XXXX 1677167063192, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167063194 XXXX 1677167063194, Thread 317: XXXX 1677167063194, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167063292 XXXX 1677167063292, Thread 317: XXXX 1677167063292, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167063293 XXXX 1677167063293, Thread 317: XXXX 1677167063293, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167063393 XXXX 1677167063393, Thread 317: XXXX 1677167063393, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167063395 XXXX 1677167063395, Thread 317: XXXX 1677167063395, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167063493 XXXX 1677167063493, Thread 317: XXXX 1677167063493, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167063495 XXXX 1677167063495, Thread 317: XXXX 1677167063495, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167063594 XXXX 1677167063594, Thread 317: XXXX 1677167063594, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167063595 XXXX 1677167063595, Thread 317: XXXX 1677167063595, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167063696 XXXX 1677167063696, Thread 317: XXXX 1677167063696, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167063697 XXXX 1677167063697, Thread 317: XXXX 1677167063697, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167063797 XXXX 1677167063797, Thread 317: XXXX 1677167063797, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167063798 XXXX 1677167063798, Thread 317: XXXX 1677167063798, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167063898 XXXX 1677167063898, Thread 317: XXXX 1677167063898, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167063899 XXXX 1677167063899, Thread 317: XXXX 1677167063899, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167063999 XXXX 1677167063999, Thread 317: XXXX 1677167063999, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167064000 XXXX 1677167064000, Thread 317: XXXX 1677167064000, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167064101 XXXX 1677167064101, Thread 317: XXXX 1677167064101, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167064103 XXXX 1677167064103, Thread 317: XXXX 1677167064103, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167064204 XXXX 1677167064204, Thread 317: XXXX 1677167064204, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167064205 XXXX 1677167064205, Thread 317: XXXX 1677167064205, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167064305 XXXX 1677167064305, Thread 317: XXXX 1677167064305, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167064307 XXXX 1677167064307, Thread 317: XXXX 1677167064307, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167064407 XXXX 1677167064407, Thread 317: XXXX 1677167064407, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167064408 XXXX 1677167064408, Thread 317: XXXX 1677167064408, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167064506 XXXX 1677167064506, Thread 317: XXXX 1677167064506, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167064507 XXXX 1677167064507, Thread 317: XXXX 1677167064507, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167064607 XXXX 1677167064607, Thread 317: XXXX 1677167064607, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167064607 XXXX 1677167064607, Thread 317: XXXX 1677167064607, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167064707 XXXX 1677167064707, Thread 317: XXXX 1677167064707, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167064708 XXXX 1677167064708, Thread 317: XXXX 1677167064708, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167064808 XXXX 1677167064808, Thread 317: XXXX 1677167064808, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167064809 XXXX 1677167064809, Thread 317: XXXX 1677167064809, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167064909 XXXX 1677167064909, Thread 317: XXXX 1677167064909, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167064911 XXXX 1677167064911, Thread 317: XXXX 1677167064911, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167065011 XXXX 1677167065011, Thread 317: XXXX 1677167065011, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167065013 XXXX 1677167065013, Thread 317: XXXX 1677167065013, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167065112 XXXX 1677167065112, Thread 317: XXXX 1677167065112, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167065114 XXXX 1677167065114, Thread 317: XXXX 1677167065114, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167065212 XXXX 1677167065212, Thread 317: XXXX 1677167065212, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167065213 XXXX 1677167065213, Thread 317: XXXX 1677167065213, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167065313 XXXX 1677167065313, Thread 317: XXXX 1677167065313, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167065315 XXXX 1677167065315, Thread 317: XXXX 1677167065315, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167065415 XXXX 1677167065415, Thread 317: XXXX 1677167065415, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167065416 XXXX 1677167065416, Thread 317: XXXX 1677167065416, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167065516 XXXX 1677167065516, Thread 317: XXXX 1677167065516, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167065517 XXXX 1677167065517, Thread 317: XXXX 1677167065517, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167065619 XXXX 1677167065619, Thread 317: XXXX 1677167065619, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167065621 XXXX 1677167065621, Thread 317: XXXX 1677167065621, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167065720 XXXX 1677167065720, Thread 317: XXXX 1677167065720, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167065721 XXXX 1677167065721, Thread 317: XXXX 1677167065721, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167065822 XXXX 1677167065822, Thread 317: XXXX 1677167065822, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167065822 XXXX 1677167065822, Thread 317: XXXX 1677167065822, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167065922 XXXX 1677167065922, Thread 317: XXXX 1677167065922, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167065924 XXXX 1677167065924, Thread 317: XXXX 1677167065924, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167066022 XXXX 1677167066022, Thread 317: XXXX 1677167066022, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167066024 XXXX 1677167066024, Thread 317: XXXX 1677167066024, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167066123 XXXX 1677167066123, Thread 317: XXXX 1677167066123, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167066124 XXXX 1677167066124, Thread 317: XXXX 1677167066124, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167066224 XXXX 1677167066224, Thread 317: XXXX 1677167066224, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167066225 XXXX 1677167066225, Thread 317: XXXX 1677167066225, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167066325 XXXX 1677167066325, Thread 317: XXXX 1677167066325, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167066326 XXXX 1677167066326, Thread 317: XXXX 1677167066326, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167066427 XXXX 1677167066427, Thread 317: XXXX 1677167066427, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167066428 XXXX 1677167066428, Thread 317: XXXX 1677167066428, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167066529 XXXX 1677167066529, Thread 317: XXXX 1677167066529, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167066532 XXXX 1677167066532, Thread 317: XXXX 1677167066532, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167066631 XXXX 1677167066631, Thread 317: XXXX 1677167066631, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167066632 XXXX 1677167066632, Thread 317: XXXX 1677167066632, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167066731 XXXX 1677167066731, Thread 317: XXXX 1677167066731, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167066734 XXXX 1677167066734, Thread 317: XXXX 1677167066734, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167066832 XXXX 1677167066832, Thread 317: XXXX 1677167066832, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167066834 XXXX 1677167066834, Thread 317: XXXX 1677167066834, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167066933 XXXX 1677167066933, Thread 317: XXXX 1677167066933, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167066934 XXXX 1677167066934, Thread 317: XXXX 1677167066934, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167067034 XXXX 1677167067034, Thread 317: XXXX 1677167067034, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167067035 XXXX 1677167067035, Thread 317: XXXX 1677167067035, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167067137 XXXX 1677167067137, Thread 317: XXXX 1677167067137, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167067138 XXXX 1677167067138, Thread 317: XXXX 1677167067138, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167067239 XXXX 1677167067239, Thread 317: XXXX 1677167067239, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167067241 XXXX 1677167067241, Thread 317: XXXX 1677167067241, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167067340 XXXX 1677167067340, Thread 317: XXXX 1677167067340, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167067341 XXXX 1677167067341, Thread 317: XXXX 1677167067341, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167067441 XXXX 1677167067441, Thread 317: XXXX 1677167067441, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167067443 XXXX 1677167067443, Thread 317: XXXX 1677167067443, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167067542 XXXX 1677167067542, Thread 317: XXXX 1677167067542, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167067544 XXXX 1677167067544, Thread 317: XXXX 1677167067544, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167067643 XXXX 1677167067643, Thread 317: XXXX 1677167067643, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167067645 XXXX 1677167067645, Thread 317: XXXX 1677167067645, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167067743 XXXX 1677167067743, Thread 317: XXXX 1677167067743, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167067744 XXXX 1677167067744, Thread 317: XXXX 1677167067744, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167067843 XXXX 1677167067843, Thread 317: XXXX 1677167067843, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167067845 XXXX 1677167067845, Thread 317: XXXX 1677167067845, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167067944 XXXX 1677167067944, Thread 317: XXXX 1677167067944, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167067946 XXXX 1677167067946, Thread 317: XXXX 1677167067946, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167068045 XXXX 1677167068045, Thread 317: XXXX 1677167068045, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167068047 XXXX 1677167068047, Thread 317: XXXX 1677167068047, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167068145 XXXX 1677167068145, Thread 317: XXXX 1677167068145, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167068146 XXXX 1677167068146, Thread 317: XXXX 1677167068146, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167068245 XXXX 1677167068245, Thread 317: XXXX 1677167068245, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167068247 XXXX 1677167068247, Thread 317: XXXX 1677167068247, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167068348 XXXX 1677167068348, Thread 317: XXXX 1677167068348, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167068349 XXXX 1677167068349, Thread 317: XXXX 1677167068349, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167068450 XXXX 1677167068450, Thread 317: XXXX 1677167068450, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167068451 XXXX 1677167068451, Thread 317: XXXX 1677167068451, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167068551 XXXX 1677167068551, Thread 317: XXXX 1677167068551, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167068553 XXXX 1677167068553, Thread 317: XXXX 1677167068553, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167068662 XXXX 1677167068662, Thread 317: XXXX 1677167068662, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167068663 XXXX 1677167068663, Thread 317: XXXX 1677167068663, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167068764 XXXX 1677167068764, Thread 317: XXXX 1677167068764, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167068765 XXXX 1677167068765, Thread 317: XXXX 1677167068765, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167068865 XXXX 1677167068865, Thread 317: XXXX 1677167068865, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167068866 XXXX 1677167068866, Thread 317: XXXX 1677167068866, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167068967 XXXX 1677167068967, Thread 317: XXXX 1677167068967, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167068968 XXXX 1677167068968, Thread 317: XXXX 1677167068968, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167069067 XXXX 1677167069067, Thread 317: XXXX 1677167069067, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167069068 XXXX 1677167069068, Thread 317: XXXX 1677167069068, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167069168 XXXX 1677167069168, Thread 317: XXXX 1677167069168, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167069172 XXXX 1677167069172, Thread 317: XXXX 1677167069172, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167069272 XXXX 1677167069272, Thread 317: XXXX 1677167069272, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167069273 XXXX 1677167069273, Thread 317: XXXX 1677167069273, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167069373 XXXX 1677167069373, Thread 317: XXXX 1677167069373, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167069374 XXXX 1677167069374, Thread 317: XXXX 1677167069374, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167069475 XXXX 1677167069475, Thread 317: XXXX 1677167069475, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167069476 XXXX 1677167069476, Thread 317: XXXX 1677167069476, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167069577 XXXX 1677167069577, Thread 317: XXXX 1677167069577, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167069578 XXXX 1677167069578, Thread 317: XXXX 1677167069578, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167069677 XXXX 1677167069677, Thread 317: XXXX 1677167069677, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167069678 XXXX 1677167069678, Thread 317: XXXX 1677167069678, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167069778 XXXX 1677167069778, Thread 317: XXXX 1677167069778, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167069781 XXXX 1677167069781, Thread 317: XXXX 1677167069781, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167069881 XXXX 1677167069881, Thread 317: XXXX 1677167069881, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167069882 XXXX 1677167069882, Thread 317: XXXX 1677167069882, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167069981 XXXX 1677167069981, Thread 317: XXXX 1677167069981, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167069982 XXXX 1677167069982, Thread 317: XXXX 1677167069982, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167070082 XXXX 1677167070082, Thread 317: XXXX 1677167070082, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167070083 XXXX 1677167070083, Thread 317: XXXX 1677167070083, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167070182 XXXX 1677167070182, Thread 317: XXXX 1677167070182, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167070184 XXXX 1677167070184, Thread 317: XXXX 1677167070184, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167070285 XXXX 1677167070285, Thread 317: XXXX 1677167070285, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167070287 XXXX 1677167070287, Thread 317: XXXX 1677167070287, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167070385 XXXX 1677167070385, Thread 317: XXXX 1677167070385, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167070386 XXXX 1677167070386, Thread 317: XXXX 1677167070386, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167070490 XXXX 1677167070490, Thread 317: XXXX 1677167070490, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167070491 XXXX 1677167070491, Thread 317: XXXX 1677167070491, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167070593 XXXX 1677167070593, Thread 317: XXXX 1677167070593, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167070594 XXXX 1677167070594, Thread 317: XXXX 1677167070594, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167070693 XXXX 1677167070693, Thread 317: XXXX 1677167070693, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167070695 XXXX 1677167070695, Thread 317: XXXX 1677167070695, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167070794 XXXX 1677167070794, Thread 317: XXXX 1677167070794, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167070796 XXXX 1677167070796, Thread 317: XXXX 1677167070796, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167070914 XXXX 1677167070914, Thread 317: XXXX 1677167070914, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167070916 XXXX 1677167070916, Thread 317: XXXX 1677167070916, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167071015 XXXX 1677167071015, Thread 317: XXXX 1677167071015, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167071016 XXXX 1677167071016, Thread 317: XXXX 1677167071016, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167071116 XXXX 1677167071116, Thread 317: XXXX 1677167071116, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167071117 XXXX 1677167071117, Thread 317: XXXX 1677167071117, Exiting Thread 317: Commands::runScriptBasic  
+317 1677167071217 XXXX 1677167071217, Thread 317: XXXX 1677167071217, Entering Thread 317: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+317 1677167071222 XXXX 1677167071222, Thread 317: com.Send returned false 
+317 1677167071223 XXXX 1677167071223, Thread 317: transfer: exception after writeHeaderAndGetResult null 
+317 1677167071225 XXXX 1677167071225, Thread 317: XXXX 1677167071225, Entering Thread 317: ToolCommUsb::recoverFromProtocolError, type = NO_SCRIPT  
+317 1677167071225 XXXX 1677167071225, Thread 317: Send Abort Script Engine Command 
+317 1677167071225 XXXX 1677167071225, Thread 317: XXXX 1677167071225, Entering Thread 317: ToolCommUsb::killScriptEngine  
+317 1677167071228 XXXX 1677167071228, Thread 317: com.Send returned false 
+317 1677167071228 XXXX 1677167071228, Thread 317: Failed sending Abort Script Engine Command. Set nuclear option = true 
+317 1677167071228 XXXX 1677167071228, Thread 317: About to nuke 
+317 1677167071228 XXXX 1677167071228, Thread 317: XXXX 1677167071228, Entering Thread 317: ToolCommUsb::nuclearOption  
+317 1677167071230 XXXX 1677167071230, Thread 317: com.Send returned false 
